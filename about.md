@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Diesen Blog gibt es garnicht. Er befindet sich in der Twilight Zone.
+Diesen Blog gibt es nicht. Er kommt aus einer anderen Zeit, aus der Zeit der Twilight Zone.
