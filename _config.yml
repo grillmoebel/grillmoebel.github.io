@@ -1,24 +1,17 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
-url:              # Site url.
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+title:            Grillmöbel
+description:      Yeah, ein cooler Blog!
+url:              https://grillmoebel.github.io
 
 links:
-  - name:         About
+  - name:         Über
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          https://grillmoebel.github.io
     external:     true
-  - name:         Email
-    url:          mailto:hello@muan.co
+  - name:         Kontakt
+    url:          mailto:korruption@gmx.de
     external:     true
-  - name:         GitHub
-    url:          http://github.com/muan
-    external:     true
-pygments:         true
+pygments:         false
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:

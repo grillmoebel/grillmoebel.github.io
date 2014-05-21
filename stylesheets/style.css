@@ -5,7 +5,8 @@ html, body {
   height: 100%; }
 
 body {
-  background: #f9f9f9;
+  background: #A98DCF;
+  background: lightblue;
   color: #303030;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
@@ -76,7 +77,10 @@ blockquote {
   font-style: normal !important; }
 
 header {
-  text-align: center; }
+  text-align: center;
+  margin: auto auto;
+}
+
 
 footer {
   width: 100%;
@@ -360,3 +364,16 @@ img {
   margin-left: -340px; }
 .paging .right {
   margin-left: 320px; }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(./open_sans.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(./open_sans_bold.woff) format('woff');
+}
