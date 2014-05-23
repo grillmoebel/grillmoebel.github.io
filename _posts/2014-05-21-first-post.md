@@ -5,7 +5,7 @@ date: 2014-05-23 01:37:21
 ---
 
 Herzlichen Glückwunsch zu diesem Blog.<br>
->Das wurde aber auch Zeit!", werden wahrscheinlich einige sagen,<br> "dass es einen weiteren Blog im Internet gibt."<br>
+"Das wurde aber auch Zeit!", werden wahrscheinlich einige sagen,<br> "dass es einen weiteren Blog im Internet gibt."<br>
 Nun, das sehe ich auch so.<br>
 Außerdem verbirgt der Name (Grillmöbel, s.o.) bereits mehrere Aspekte des Konzepts. Natürlich kann niemand außer mir diese Brücke schlagen. Egal. Jetzt endlich die tiefere Bedeutung des Namens:
 Grillmöbel ist griffig und klingt vertraut, so ähnlich wie z.B. Ebuy oder Deutsches Historisches Museum. Im Hinblick auf das Konzept des Blogs bedeutet das, dass ich es gut finde, wenn Namen griffig sind und vertraut klingen.<br>
