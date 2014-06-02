@@ -14,4 +14,4 @@ Renft<br>
 Gewalt Disney<br>
 <br>
 <br>
-\*<br>Wer ahnt, worum es dabei geht, schicke mir eine Email. Unter allen (richtigen) Einsendungen werden verlost: Ein gefälschtes Autogramm von Rainer Brandt, ein selbstgemaltes Bild von einem Weihnachtsbaum (in der Größe eines Weihnachtsbaums) und ein Ballon in Form einer Hexe.
+\*<br>Wer ahnt, worum es dabei geht, schicke mir eine Email. Unter allen (richtigen) Einsendungen werden verlost: Ein gefälschtes Autogramm von [Rainer Brandt](http://de.wikipedia.org/wiki/Schnodderdeutsch), ein selbstgemaltes Bild von einem Weihnachtsbaum (in der Größe eines Weihnachtsbaums) und ein [Ballon in Form einer Hexe](http://www.secret.tv/artikel1214977/Fliegender_Mensch).
