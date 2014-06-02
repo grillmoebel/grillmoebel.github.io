@@ -7,7 +7,7 @@ links:
     url:          /about
   - name:         Blog
     url:          https://grillmoebel.github.io
-    external:     true
+    external:     false
   - name:         Kontakt
     url:          mailto:korruption@gmx.de
     external:     true
