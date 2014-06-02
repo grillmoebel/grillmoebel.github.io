@@ -8,7 +8,7 @@ date: 2014-06-03 01:01:00
 - Das Brian-Cox-Trinkspiel<br>
 - Die Rezension der Rezensionen (?)\*<br>
 <br>
-Gute Bandnamen:
+Gute Bandnamen:<br>
 Cerealien Trimmi<br>
 Renft<br>
 Gewalt Disney<br>
