@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Endlich mal was Gutes an Pfingsten	
+title: Die Bedeutung von Pfingsten 
 date: 2014-06-09 1:01:00
 ---
 
