@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die moldavische Diskuswerferin Lia Manoliu hat einmal gesagt: „Bitte zitieren Sie mich nicht in einer Rede!“
-date: 2014-11-04 08:37:21
+date: 2014-11-03 08:37:21
 ---
 
 [Achtung: Text enthält einen Aufruf zu gesetzeswidrigem Verhalten im Straßenverkehr]
