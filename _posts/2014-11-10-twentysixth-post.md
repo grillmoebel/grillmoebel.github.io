@@ -32,7 +32,7 @@ Heute: Eine Liste von Manowar-Songtiteln (nach immensem Interpretationsaufwand t
 24. House Of Death<br>
 25. Revelation (Death's Angel)<br>
 26. Army Of The Immortals<br>
-27. Army Of The Dead, Part I (vgl. Thess. 1, 4,16)<br>
+27. Army Of The Dead, Part I *(vgl. Thess. 1, 4,16)*<br>
 28. March For Revenge (By The Soldiers Of Death)<br>
 29. Army Of The Dead, Part II<br>
 30. Bridge Of Death<br>
