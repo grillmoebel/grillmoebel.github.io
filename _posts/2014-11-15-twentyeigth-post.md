@@ -8,7 +8,7 @@ date: 2014-11-15 08:37:00
 Personen<br><br>
 Suffke<br>
 Suffkes polnische Ehefrau<br>
-Der Schlagzeuger<br><br>
+Der Schlagzeuger<br>
 Der Feuerwehrmann<br><br>
 
 Szene: Nacht, Parkplatz. Unmittelbar nach einem Auftritt belädt der Schlagzeuger sein Auto mit Schlagzeug. 10 Meter entfernt stehen Suffke und Suffkes polnische Ehefrau an einem Stehtisch.
@@ -44,8 +44,7 @@ Der Schlagzeuger: Jaja, kenn ich.<br>
 Suffkes polnische Ehefrau: Ich geh mal auf die Toilette. *(geht)*<br>
 Suffke *(kumpelhaft und vertraulich)*: Det is meene kleene polnische Ehefrau. Sechs Jahre sind wa jetzt verheiratet. *(plötzlich)* Aber jetzt sach ma, wat findste jut?<br>
 Der Schlagzeuger *(verwirrt)*: Na zum Beispiel, was wir vorhin gemacht haben, haste ja gehört.<br>
-Suffke *(woanders)*: Spielste Gitarre, wa?<br>
-Der Schlagzeuger *(verwirrter)*: Äh, nee, Schlagzeug.<br>
+Suffke *(woanders)*: Spielste Jitarre, wa?<br> Der Schlagzeuger *(verwirrter)*: Äh, nee, Schlagzeug.<br>
 Suffke *(unangemessen überrascht)*: Ach Schlagzeug! Schade! *(lacht)*<br>
 Der Schlagzeuger: Schade?<br>
 Suffke *(relativierend)*: Nee, nee, ick hab wie jesacht ne Jitarre zuhause und denn, kennste das, spiel ick mit Plääbäck, det heißt, die ganze Band kommt vom Band, ick hab det uffm USB-Stick, nee det heißt jarnich Plääbäck, det heißt denn Plääalong, kennste dette?<br>
@@ -67,7 +66,7 @@ Suffke: Ja, nee, kann ick mir denken... *(wissend)* bei dir.... *(mustert den Sc
 *Der Feuerwehrmann kommt irgendwoher dazu.*<br>
 Der Schlagzeuger: Hey, na?<br>
 Der Feuerwehrmann: Wie, seida schon fertig?<br>
-Der Schlagzeuger: Ja, war nicht so lange. Bin schon am beladen.<br>
+Der Schlagzeuger: Ja, war nicht so lange. Bin schon am Beladen.<br>
 Der Feuerwehrmann: Ah...<br>
 Suffke *(unterbricht)*: Wie, warst du dette uff de Bühne vorhin?<br>
 Der Feuerwehrmann *(lacht)*: Hä, det wusstest de nich oder wat?<br>
@@ -79,7 +78,7 @@ Suffke *(entsetzt)*: Nee nee, bleib mal hier! Ick muss mich noch mit dir unterha
 Der Schlagzeuger: Ja, aber ich muss noch weiter danach.<br>
 Suffke: Jaa nee klar jeh du mal weitermachen, ick bleib mit meiner kleenen polnischen Ehefrau nochn bisschen draußen, drinnen darf man ja nich rauchen, müssen wa hier rauchen. *(hat einen Geistesblitz)* Noch eene Frage!<br>
 Der Schlagzeuger *(unangemessen geduldig)*: Na, sag mal.<br>
-Suffke: Weeste, du siehst jenauso aus wie Cat Stevens! kennste Cat Stevens?<br>
+Suffke: Weeste, du siehst jenauso aus wie Cat Stevens! Kennste Cat Stevens?<br>
 Der Schlagzeuger *(abspulend)*: Jap, kenn ich, find ich teilweise gut.<br>
 Suffke *(indigniert)*: Teilweise!? Kennste denn die Lieder, hier, äh... *(fängt an zu röhren)*<br>
 Der Schlagzeuger *(geht)*: Bis dann!<br>
