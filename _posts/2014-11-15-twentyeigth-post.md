@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Momentaufnahmen eines Musiknerds (I): Da machste wat mit
+title: Momentaufnahmen eines Musiknerds I - Da machste wat mit
 date: 2014-11-15 08:37:00
 ---
 
