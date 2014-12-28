@@ -125,6 +125,7 @@ Hier mal meine Lieblingssprachen:
   Als Beispiel wieder `Hello world` in [Piet][dm_piet]:
 
   ![Hello world in Piet][piet_hw]
+
 * [Whitespace][]  
   ist eine der sichersten Sprachen, denn sie besteht nur aus
   Leerzeichen (Spaces), Tabulatoren ([Tab][]s) und Zeilenumbruechen (Newlines).  
