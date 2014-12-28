@@ -69,6 +69,7 @@ Hier mal meine Lieblingssprachen:
 
   [Ook!][eso_ook] basiert auf Brainfuck, indem die 8 Befehle durch
   [Tupel][] wie `Ook. Ook?` ersetzt werden. Bananas are good.
+
 * [Chef][]  
 	ist eine Programmiersprache in Form von englischen Koch- oder Backrezepten.  
 	Ein veganes und opulentes `Hello world!` in [Chef][dm_chef]:
