@@ -1,6 +1,6 @@
 ---
 laut: post
-title: Warum mag Jens Rachut "The Wire" nicht?
+title: Warum mag Jens Rachut The Wire nicht?
 date: 2015-01-02 08:37:00
 --- 
 
