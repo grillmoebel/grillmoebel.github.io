@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wenn ich verliere, putze ich dein Sattelzeug" (Sheldon, S.40)
-date: 2015-02-24 08:37:00
+date: 2015-02-25 00:37:00
 ---
 
 Zu Anfang mögen die vielen Fachbegriffe schon überraschen: „Palomino-Stute“, „Schecken“, „Flanken“, „Freeloader“... doch je mehr man sich auf die Geschichte einlässt, die Ann Sheldon in ihrem Hauptwerk „Lisa und die Ranch der Pferde – Das Phantompferd“ erzählt, desto mehr wird man an die Hand genommen. Anschaulich beschreibt die Autorin Szenen aus der Welt des Reitens (*43*, *72*, *110*); die Begriffe aus dem Jargon der Rancher und Reiter fangen dadurch plötzlich auch für Laien an, Sinn zu ergeben; Sheldon versteht es, mit dem Leser auf diese Weise zu spielen. Überhaupt wird das Weiterlesen stets belohnt. Wirkt so anfangs die Fülle der Charaktere (Amber, Lisa Craig, Bob Craig, Larry Spencer, Kathy Hamilton, Mac, Freeloader, Patches, *1*) ein wenig erdrückend, löst Sheldon dies im Laufe des 1. Kapitels geschickt mithilfe flüssiger Dialoge, die zwar nicht unbedingt zum Plot beizutragen scheinen, aber dafür ihren Zweck erfüllen: Die Rollen wachsen dem Leser schnell ans Herz, sei es die quirlige Kathy, die sich als beste Freundin und graue Eminenz der Protagonistin Lisa uns gleichsam „vorstellt“ oder der etwas herrische Mac („Hier schlagen wir das Lager auf. Jeder weiß, was er zu tun hat. Gehen wir an die Arbeit!“, *12*), der Aufseher der Rancho del Sol, einer der zentralen Schauplätze der Story. 
