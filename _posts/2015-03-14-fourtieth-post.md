@@ -20,8 +20,8 @@ Ich wusste bis dato garnicht, dass Satan der „Affe Gottes“ ist, aber [es sch
 Endlich eine klare Ansage: Künftig werden Gott und Maria nur noch privat zu Leuten sprechen, weil sie die Öffentlichkeit scheuen. Das heißt, dass endlich diese nervige Kritik an Offenbarungen aufhören wird, denn jetzt heißt es Vertrauen haben, nicht nachdenken. Und ja, wenn alles gesagt ist, ist alles gesagt, mehr zu sagen wäre ja unnötig, gerade für jemanden wie Gott.<br><br>
 
 „Mit dem Segen Gottes und dem Segen der unbefleckt empfangenen Mutter vom Sieg, Maria“<br><br>
-Mit dieser etwas pathetischen Schlussformel endete der erste der beiden ausgehangenen Texte. Viele Fragen bleiben dennoch, vielleicht hilft er zweite Text:
-„Nach Meiner Warnung und Meinem Wunder werden Meine Zwei Zeugen öffentlich auftreten!<br><br>“
+Mit dieser etwas pathetischen Schlussformel endete der erste der beiden ausgehangenen Texte. Viele Fragen bleiben dennoch, vielleicht hilft er zweite Text:<br><br>
+„Nach Meiner Warnung und Meinem Wunder werden Meine Zwei Zeugen öffentlich auftreten!“<br><br>
 Ok, soweit waren wir schon. Es folgt eine Überschrift:<br><br>
 „6. Februar 2013, 8:20 Uhr (Seher Enoch, Kolumbien)<br><br>
 Dringender Appell von Gott Vater an die Menschheit<br><br>
