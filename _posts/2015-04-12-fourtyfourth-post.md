@@ -4,7 +4,7 @@ title: Ich bin nicht krank, ich habe eine Nasennebenhöhlenentzündung, denken S
 date: 2015-04-12 08:37:00
 ---
 
-Da ich die meisten Sachen, die mich in der letzten Zeit beschäftigten (Deutschenfeindlichkeit, Onlinebanking und wie [Shane MacGowan](http://img.spokeo.com/public/900-600/shane_macgowan_2006_02_17.jpg) in jeder seiner [Veröffentlichungen](http://en.wikipedia.org/wiki/Shane_MacGowan#Selected_discography) betrunkener klingt als in der vorherigen) analog (also im Gespräch) bereden und verarbeiten konnte, sind heute nur folgende Momentaufnahmen bloggenswert:
+Da ich die meisten Sachen, die mich in der letzten Zeit beschäftigten (Deutschenfeindlichkeit, Onlinebanking und wie [Shane MacGowan](http://img.spokeo.com/public/900-600/shane_macgowan_2006_02_17.jpg) in jeder seiner [Veröffentlichungen](http://en.wikipedia.org/wiki/Shane_MacGowan#Selected_discography) betrunkener klingt als in der vorherigen), analog (also im Gespräch) bereden und verarbeiten konnte, sind heute nur folgende Momentaufnahmen bloggenswert:
 <br>
 <br>
 <br>
