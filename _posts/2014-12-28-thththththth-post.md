@@ -292,7 +292,8 @@ Weitere Quellen (Weiterbildung und so):
 * [99 Bottles of Beer][99]
 * [DM's Esoteric Programming Languages][dm]
 * [Thread mit weiteren Algorithmen][stack]
-* [Getanzte Sortieralgorithmen](http://icancode.de/2670/getanzte-sortieralgorithmen)
+* [Getanzte Sortieralgorithmen][Tanz]
+
 ---
 
 <sup><a name="foot1" href="#1">1</a></sup> In dem Zusammenhang interessant: ein Teammitglied um die
@@ -340,6 +341,7 @@ Bug, eine Motte ([Quelle][Leistungen]).
 [RAM]: https://de.wikipedia.org/wiki/Random-Access_Memory
 [Sleepsort]: https://dis.4chan.org/read/prog/1295544154
 [Tab]: https://de.wikipedia.org/wiki/Tabulatortaste
+[Tanz]:http://icancode.de/2670/getanzte-sortieralgorithmen
 [Tupel]: https://de.wikipedia.org/wiki/Tupel
 [Whenever]: http://www.dangermouse.net/esoteric/whenever.html
 [Whitespace]: https://de.wikipedia.org/wiki/Whitespace_(Programmiersprache)
