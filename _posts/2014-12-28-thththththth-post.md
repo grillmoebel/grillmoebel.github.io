@@ -292,7 +292,7 @@ Weitere Quellen (Weiterbildung und so):
 * [99 Bottles of Beer][99]
 * [DM's Esoteric Programming Languages][dm]
 * [Thread mit weiteren Algorithmen][stack]
-
+* [Getanzte Sortieralgorithmen](http://icancode.de/2670/getanzte-sortieralgorithmen)
 ---
 
 <sup><a name="foot1" href="#1">1</a></sup> In dem Zusammenhang interessant: ein Teammitglied um die
