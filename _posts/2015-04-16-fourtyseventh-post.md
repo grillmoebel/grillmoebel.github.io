@@ -11,13 +11,13 @@ Weil ich heute vor einem Jahr meinen [ersten Post](http://grillmoebel.github.io/
 Später.<br><br>
 *Denke dir weitere 10 Fragen aus*<br><br>
 Äh sagen wir 3:<br><br>
--Ist das Wurst oder Käse?<br><br>
--Das ist doch echt bekloppt, oder?<br><br>
--Können Sie mir mal eben helfen?<br><br>
+-Ist das Wurst oder Käse?<br>
+-Das ist doch echt bekloppt, oder?<br>
+-Können Sie mir mal eben helfen?<br>
 Ich freue mich auf kreative Antworten.<br><br>
 *Tagge (also nominiere) 10 Blogger, die unter 200 Leser haben*<br><br>
-Sagen wir 2:<br><br>
--[1](https://tschellufjek.wordpress.com/)<br><br>
+Sagen wir 2:<br>
+-[1](https://tschellufjek.wordpress.com/)<br>
 -[2](http://yhaupenthal.org/1429218406.htm)<br><br>
 *Sage den Bloggern, die du nominiert hast, dass sie einen Award bekommen haben und somit getaggt wurden*<br><br>
 Das erübrigt sich, da beide schon einen Award haben.<br><br>
