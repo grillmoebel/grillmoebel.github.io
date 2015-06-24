@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die Rute und Zurechtweisung sind das, was Weisheit gibt" (Spr. 17, 10, zitiert nach "Das Geheimnis des Familienglücks", Traktat der Zeugen Jehovas, 1996/2012)
+title: 'Die Rute und Zurechtweisung sind das, was Weisheit gibt' (Spr. 17, 10, zitiert nach 'Das Geheimnis des Familienglücks', Traktat der Zeugen Jehovas, 1996,2012)
 date: 2015-06-22 08:37:00 
 ---
 
