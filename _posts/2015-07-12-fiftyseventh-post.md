@@ -95,7 +95,7 @@ Georgios: Das ist ne gute Frage...
 Kellner (unterbricht): Das Intermezzo bilden heute die Rote Bete Gnocchi im Szechuan-Pfeffersud mit Kirschvinaigrette, eingelegtem Chinakohl und Knusperfeta, lasst es euch schmecken!
 <br>
 *Es kommt ein Typ mit Gitarre und singt relativ innovativ dazu. Die Rote-Bete Gnocchi sind ein Gedicht, aber eher eins von Klabund als von Heinz Erhardt, im Pfeffersud befinden sich diverse winzige Gemüseteilchen, die fast einen Fond daraus machen. Chinakohl war nie aromatischer als mit diesen Kirschen zusammen, was überrascht. Einzig der Knusperfeta ist fast schon zu salzig, aber das kann die allgemeine Geschmacksharmonie nicht so einfach obosolet machen.*
-Georgios: Warum magst du eigentlich keine Animationsfilme?
+<br>Georgios: Warum magst du eigentlich keine Animationsfilme?
 <br>
 Kassandra: Ich kann diese Art von Animation einfach nicht sehen, es macht mich wütend, ganz egal, wie der Film ansonsten ist.
 <br>
@@ -126,7 +126,7 @@ Kellner (unterbricht): Als Hauptgang servieren wir heute Seitan-Zwiebelrostbrate
 Georgios: Und, bist du dahintergekommen, woran es liegt?
 <br>
 Kassandra: Ich glaube, ja. Und zwar habe ich mal einen Film von Werner Herzog gesehen, wo es drum geht, dass ein etwas wahnsinniger Typ, von Klaus Kinski gespielt...
-Georgios: Ah, von dem kenn ich nur die Videos, wo er sich aufregt.
+<br>Georgios: Ah, von dem kenn ich nur die Videos, wo er sich aufregt.
 <br>
 Kassandra: Ahja, da auf dem Friedhof und so. Ja, das ist auch großartig. Jedenfalls spielt er einen, der im peruanischen Dschungel ein Opernhaus bauen möchte. Und dann sind die wirklich da hin, ohne zu wissen, wie die nativen Stämme, die da leben, ticken und haben denen die Idee vermittelt. Natürlich gab es da Reibungen, aber so entstanden ziemlich echte Szenen. An einer Stelle geht es dann darum, dass dieser Exzentriker dann ein Schiff über einen kleinen Bergrücken von einem Fluss zu einem Nachbarfluss ziehen will. Dazu bauen sie dann riesigen Züge und mit ganz vielen Baumstämmen und sehr viel Menschenkraft ziehen sie dann das riesige Teil darüber. Jetzt kommt der Punkt: Die haben das damals beim Dreh einfach auch gemacht! Und bei mir ist es so, dass ich das irgendwie merke, wenn ich diesen Film ansehe. Und deswegen ist mir ne Puppe, also ein echter Gegenstand immer lieber als etwas computeranimiertes. Also auch wenns total scheiße aussieht wie bei Star Trek oder Raumpatrouille Orion, ich hab einfach weniger das Gefühl, beschissen zu werden.
 <br>
