@@ -15,5 +15,5 @@ Brian Cox sagt *basic structure*, *basic building blocks*, *what it means to be 
 Brian Cox sagt *trillions* oder redet über das *Very Large Telescope* in Chile: ein komplettes Gläschen Likör auf Ex<br>
 Brian Cox bringt eine krude Analogie: Ein Schluck Wodka<br>
 Brian Cox bringt eine gute Analogie: Ein Schluck Wodka<br>
-Brian Cox sagt *Yeibichai*, *for fuck's sake* oder steichelt ein gefährliches Raubtier: [Château Margaux 2009](http://www.luxusblogger.de/2014/01/05/die-teuerste-flasche-wein-der-welt-15722.html) (aus der Balthazar-Flasche)<br><br>
+Brian Cox sagt *Yeibichai*, *for fuck's sake* oder streichelt ein gefährliches Raubtier: [Château Margaux 2009](http://www.luxusblogger.de/2014/01/05/die-teuerste-flasche-wein-der-welt-15722.html) (aus der Balthazar-Flasche)<br><br>
 Viel Spaß den 2 Nerds, die das Spiel tatsächlich ausprobieren.
