@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Wie versprochen](http://grillmoebel.github.io/2014/06/03/fifth-post/): Das Brian Cox-Trinkspiel
+title: Wie versprochen: Das Brian Cox-Trinkspiel
 date: 2015-07-22 08:37:00
 ---
 
