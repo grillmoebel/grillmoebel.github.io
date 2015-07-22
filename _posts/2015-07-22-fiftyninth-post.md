@@ -4,6 +4,8 @@ title: Wie versprochen - das Brian Cox-Trinkspiel
 date: 2015-07-22 08:37:00
 ---
 
+
+
 Man wähle eine beliebige Episode einer [Brian Cox](http://atlas.ch/news/2009/sexiest-physicist.html)-zentrierten Serie aus und befolge konsequent diese wenigen Regeln:
 <br><br>
 Brian Cox sagt *civilisation*, *alien*, *telescope* oder *billion(s)*: ein kleiner Schluck Bier <br>
