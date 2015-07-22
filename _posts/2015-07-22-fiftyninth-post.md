@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wie versprochen: Das Brian Cox-Trinkspiel
+title: Wie versprochen - das Brian Cox-Trinkspiel
 date: 2015-07-22 08:37:00
 ---
 
