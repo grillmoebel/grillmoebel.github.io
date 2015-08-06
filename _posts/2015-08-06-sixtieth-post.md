@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Na los, Oma, hol das Stöckchen!"
+title: Na los, Oma, hol das Stöckchen!
 date: 2015-08-06 08:37:00
 ---
 
@@ -10,9 +10,9 @@ Wenn ich also unangemeldet, vermummt oder ohne Polizei demonstriere, kann ich ei
 
 Das gibt es doch nicht, ich muss doch irgendwie meine Kritik äußern können. Nein, mache ich lieber was produktives. Eine Wohnung soll zwangsgeräumt werden, für die Familie da drin bedeutet das Obdachlosigkeit. Das ist scheiße, ich setz mich in den Weg. Ich werde weggetragen, aber nicht verhaftet. Irgendwann später kommt die Polizei und sagt: „Geben Sie uns 100 Euro oder wir ermitteln wegen irgendwas gegen Sie.“<br><br>
 
-Ok, mir reicht's. Wenn ich schon selbst nichts machen kann, dann vielleicht wer anders. Ich stelle mich auf ein Podest in die Fußgängerzone und gebe den Leuten Ideen mit, etwas gegen diese Ungerechtigkeiten zu tun, Nazis zu blockieren, Schutzehen einzugehen, Wahlen zu verfälschen, im Supermarkt zu klauen, was auch immer, Hauptsache irgendwie die Wut loswerden und dem System schaden. Kommt Deutschland und sagt: „Auch wenn du keine [Straftat](http://www.rechtslexikon.net/d/anstiftung/anstiftung.htm) begehst, darfst du nicht andere dazu auffordern. Selbst wenn nichts passiert, können wir dich allein dafür bestrafen.“<br><br>
+Ok, mir reicht's. Wenn ich schon selbst nichts machen kann, dann vielleicht wer anders, der oder die noch nicht im Visier der Behörden ist. Ich stelle mich auf ein Podest in die Fußgängerzone und gebe den Leuten Ideen mit, etwas gegen diese Ungerechtigkeiten zu tun, Nazis zu blockieren, Schutzehen einzugehen, Wahlen zu verfälschen, im Supermarkt zu klauen, was auch immer, Hauptsache irgendwie die Wut loswerden und dem System schaden. Kommt Deutschland und sagt: „Auch wenn du keine [Straftat](http://www.rechtslexikon.net/d/anstiftung/anstiftung.htm) begehst, darfst du nicht andere dazu auffordern. Selbst wenn nichts passiert, können wir dich allein dafür bestrafen.“<br><br>
 
 Dass hier konsequent Leuten das Recht, moralisch richtige Entscheidungen zu treffen, aberkannt wird, finde ich unfassbar, meine Wut steigt, ich schreibe mir ein [Schild](http://www.taz.de/!5209851/), wo draufsteht „[Deutschland, du mieses Stück Scheiße](http://umsganze.org/deshalb-scheisse-deutschland/)“ und laufe damit durch die Gegend. Kommt die Polizei und sagt: „Wer die Bundesrepublik Deutschland beschimpft oder böswillig verächtlich macht, kann bis zu 3 Jahre ins Gefängnis kommen.“<br><br>
 
-Ok, ein Staat kann also Diktaturen und Völkermorde indirekt unterstützen, den Tod zehntausender Menschen in Kauf nehmen, die da hin kommen wegen des positiven Images dieses Staates in der Welt, kann die eigene Bevölkerung extrem entmündigen, Nazis hofieren und apausenlos diejenigen mundtot machen, denen das nicht passt und ich darf nichts böswilliges gegen so einen Staat sagen?
+Ok, ein Staat kann also Diktaturen und Völkermorde indirekt unterstützen, den Tod zehntausender Menschen in Kauf nehmen, die da hin kommen wegen des positiven Images dieses Staates in der Welt, kann die eigene Bevölkerung extrem entmündigen, Nazis hofieren und pausenlos diejenigen mundtot machen, denen das nicht passt und ich darf nichts böswilliges gegen so einen Staat sagen?
 Das desillusioniert mich ein wenig und ich fahre aufs Land raus, um spazieren zu gehen. Mein Lieblingswaldweg mit den schönen, altehrwürdigen Bäumen am Rand. Kommt der Baumbeauftragte der Gemeinde und sagt: „Bäume im Wald können bei Sturm umfallen und sind daher eine Gefahr für das Leben der Wanderer. Sofortige Abholzung.“ <br> Nachdem man mir jetzt sogar die Freiheit nimmt, von einem herunterfallenden Ast erschlagen zu werden, bleibt nur noch eins, was ich tun kann.
