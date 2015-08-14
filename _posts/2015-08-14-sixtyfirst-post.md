@@ -1,5 +1,10 @@
-Ist das Leben geprägt von Wirrsal, so sind auch die Blogeinträge geprägt von Wirrsal (8.Buch Mose)
-<br><br>
+---
+layout: post
+title: Ist das Leben geprägt von Wirrsal, so sind auch die Blogeinträge geprägt von Wirrsal (8.Buch Mose)
+date: 2015-08-14 08:37:00
+---
+
+
 Immer, wenn ich lese "mit einer Zuckerart", hoffe ich, dass danach dann da steht: "nämlich Rübenzucker. Ha!"<br>
 Ist das nicht der Unterschied zwischen Zivilisation und Barbarei?<br><br>
 Außerdem sollte sich Mixery vielleicht reklametechnisch an Mathenerds wenden:<br>
