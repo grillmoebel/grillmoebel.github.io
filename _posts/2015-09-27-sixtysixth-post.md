@@ -6,7 +6,6 @@ date: 2015-09-27 08:37:00
 
 Ich möchte die Zeit heute dafür nutzen, ein willkürliches Ranking trauriger Momente der populären Musik aufzutun.<br><br>
 Platz 3:<br>
-
 die [erste Sinlgeauskopplung](https://www.youtube.com/watch?v=iZZUY32iCzU) der Black Keys zum aktuellsten Album. Wer verstehen will, warum, höre sich das Album "The Big Come up" an und vergleiche.
 <br>
 Platz 2:<br>
