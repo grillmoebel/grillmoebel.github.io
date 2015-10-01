@@ -5,7 +5,7 @@ date: 2015-09-22 08:37:00
 ---
 
 4: Patriarchat<br><br>
-[Achtung: der folgende Text enthält die (völlig zutreffende) Behauptung, dass religiöse in der Regel Menschen unselbständig und unemanzipatorisch sind]<br>
+[Achtung: der folgende Text enthält die (völlig zutreffende) Behauptung, dass religiöse Menschen in der Regel unselbständig und unemanzipatorisch sind]<br>
 Ich will nicht abstreiten, OOOO Gott, das Handy liegt auf einem vibrationsverstärkenden Untergrund und natürlich kommt jetzt eine Nachricht, jetzt, wo das Baby in diesem gefährlichen "Alles oder nichts"-Schlafstadium ist, wo eine zu schnell oder zu harsch umgeblätterte Seite zu 3 Stunden Beruhigungsarbeit führen kann 
 (Dramatisierung von der Grillmöbel-Dramaqueen. Der Ausdruck "Dramaqueen" bringt mich zurück zum bekackten Patriarchat). Ich will also nämlich nicht abstreiten,
 dass das Patriarchat auch ohne Religion möglich ist. ABER wie auch zahlreiche andere Geißeln der Menschheit beschaffen religiöse Vorstellungen der Abwertung von allem,
