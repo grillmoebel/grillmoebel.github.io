@@ -1,15 +1,17 @@
 ---
 layout: post
-title: And all my promises are lies, all my love is hate
-I am the politician, and I decide your fate (L. Kilmister)
+title: And all my promises are lies, and all my love is hate, I am the politician, and I decide your fate (L. Kilmister, again)
 date: 2015-10-31 08:37:00
 ---
+
+
+
 8: Musik	<br><br><br>
 
 „Die gleiche Macht der Verdinglichung, die die Musik als Kunst 
 konstituierte und die nie in bloße Unmittelbarkeit sich rückver- 
 wandeln ließe, wollte man nicht die Kunst auf ein vor-arbeitsteiliges. 
-Stadium zurückverweisen — die gleiche Macht der Verdinglichuno- 
+Stadium zurückverweisen — die gleiche Macht der Verdinglichung- 
 hat heute den Menschen die Musik genommen und ihnen bloß deren 
 Schein gelassen ; die Musik aber, soweit sie sich nicht dem Gebot der 
 Warenproduktion unterwirft, ihres gesellschaftlichen Haftes beraubt 
