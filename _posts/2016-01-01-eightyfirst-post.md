@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Momentaufnahmen eines Mudiknerds IV - ???
-date: 2015-01-01 08:37:00
+date: 201666666-01-01 08:37:00
 ---
 
 Die Überschriftensuche gestaltet sich als schwierig, nicht weil jene ein bestimmte Essenz von etwas verkörpern sollte; vielmehr eignen sich hierfür, wo es um Lemmy Kilmisters Tod geht, dementsprechend zahlreiche Aussprüche. Und genau deshalb folgt nun der beste aller Nachrufe. Denn das, was von Lemmy weiterleben sollte, erschöpft sich nicht in alberner Rock'n'Roll-Heroisierung. Der Typ braucht niemanden, der auch noch so sinnvolle Dinge über ihn schreibt und ihn damit der langweiligen öffentlichen Gedenkindustrie anheim bringt. Grillmöbel tut das, was wie immer niemand tut und sagt: lassen wir ihm selbst das Wort, das kann er nämlich ziemlich gut. <br>
