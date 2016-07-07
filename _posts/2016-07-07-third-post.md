@@ -18,4 +18,4 @@ Ohne typisch Deutsches kommt so ein Deutschlandspielticker natürlich nicht aus.
 „29. Min.: Deutschland hat die Spielkontrolle, hat mehr Ballbesitz, hat mehr Offensivaktionen. Das gefällt uns.“<br>
 „45. Min.+2: TOR für Frankreich! Griezmann bleibt cool und verwandelt ins linke Eck. Neuer entscheidet sich für die rechte Ecke.“<br>
 Und: „21:53 Uhr: Halbzeitfazit: Das gibt es einfach nicht! Deutschland hat das Spiel im Griff, hätte die Führung verdient.“
-Mal sehen, wie viele Fußballereignisse es noch braucht, bis der Faschismus ausbricht.
+<br>Mal sehen, wie viele Fußballereignisse es noch braucht, bis der Faschismus ausbricht.
