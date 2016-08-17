@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Berichtigung: Pippi Langstrumpf klann nur tun, was sie will, weil sie sehr viel GOLD hat
+title: Berichtigung - Pippi Langstrumpf kann nur tun, was sie will, weil sie sehr viel GOLD hat
 date: 2016-08-17 08:37:00
 ---
 
