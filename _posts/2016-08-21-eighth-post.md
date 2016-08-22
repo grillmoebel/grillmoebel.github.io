@@ -1,7 +1,6 @@
 ---
 layout: post
-title: And if the church or the state can’t find a cure for all the hate,
-Then I can’t find the need to vote or even pray (The Rumjacks - Blows and unkind words)
+title: And if the church or the state can't find a cure for all the hate, then I can't find the need to vote or even pray (The Rumjacks - Blows and unkind words)
 date: 2016-08-21 08:37:00
 ---
 
