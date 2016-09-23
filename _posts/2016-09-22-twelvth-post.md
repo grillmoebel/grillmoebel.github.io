@@ -4,7 +4,7 @@ title: bringin‘ a snake to a date is like bringin‘ a bike to a déja vu
 date: 2016-09-22
 ---
 
-*Beim Verlassen des Supermarkts.*
+*Beim Verlassen des milliardenschweren Supermarkts.*
 <br><br>
 Angestellte 1 *(hinterhältig)*: „Haben Sie dieses Glas Oliven bezahlt?“
 <br>
@@ -160,8 +160,8 @@ Der Ladendieb: „Ich habe Ladendiebstahl begangen!“
 <br>
 Der Mitarbeiter *(empört sich auf eine ironische Weise)*: „Das Baby hatten se aber schon vorher, oder? Hahaha!“
 <br><br>
-*Alle lachen, bis auf Angestellte 1 und 2. Zurück im Büro oder Hinterzimmer ist nun auch eine Art Geschäftsführer oder sowas anwesend.*<br><br>
-
+*Alle lachen, bis auf Angestellte 1 und 2. Zurück im Büro oder Hinterzimmer ist nun auch eine Art Geschäftsführer oder sowas anwesend.*
+<br><br>
 Angestellte 1 *(füllt irgendwas aus)*: „Beruf?“
 <br>
 der Ladendieb: „Warum ist das relevant?“
@@ -177,8 +177,8 @@ der Ladendieb *(komplexe Zusammenhänge begreifend)*: „Das ist nicht meine Sch
 Angestellte 1 *(extrem empört und völlig enthemmt)*: „Natürlich! Sie haben doch gerade WAREN ENTWENDET! Dadurch steigen die Preise und unsere Gehälter sinken...“
 <br>der Ladendieb *(unterbricht die lächerliche Vereinfachung)*: „Das ist auch nicht meine Schuld, dass hier ein System am Werk ist, dass Sie dafür bestraft, wenn ich was klaue.“
 <br>
-Angestellte 1 *(ehrlich entrüstet)*: „Aber natürlich! Sie… sie wissen ja, was das für ein System ist … und müssen sich ihm fügen!“<br>
-
+Angestellte 1 *(ehrlich entrüstet)*: „Aber natürlich! Sie… sie wissen ja, was das für ein System ist … und müssen sich ihm fügen!“
+<br>
 der Ladendieb: „………….oder auch nicht.“
 <br><br>
 *Die Bullen und der Geschäftsführer grinsen.*
