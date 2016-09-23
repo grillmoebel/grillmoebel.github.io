@@ -91,16 +91,17 @@ Bulle *(verständnisvoll)*: „Ja, das müssen Sie ja auch nicht, ok.“
 <br><br>
 *Die Sache mit dem Ausweis dauert an.*
 <br><br>
-Der Ladendieb *(ungeduldig)*: „Und was passiert jetzt?“<br>
+Der Ladendieb *(ungeduldig)*: „Und was passiert jetzt?“
+<br>
 
-Bullin *(hilfsbereit)*: „Naja, die erstatten dann jetzt Anzeige und dann kriegen Sie was mit der Post… aber wenn Sie nicht ständig erwischt werden, würd ich sagen, das wird wohl eher eingestellt… *(entschuldigend)* also nicht, dass ich Ihnen da was garantieren könnte, aber die Erfahrung sagt das halt…“<br>
-
-Der Ladendieb: „Ah, dann ist ja gut. Und Hausverbot oder was?“<br>
-
+Bullin *(hilfsbereit)*: „Naja, die erstatten dann jetzt Anzeige und dann kriegen Sie was mit der Post… aber wenn Sie nicht ständig erwischt werden, würd ich sagen, das wird wohl eher eingestellt… *(entschuldigend)* also nicht, dass ich Ihnen da was garantieren könnte, aber die Erfahrung sagt das halt…“
+<br>
+Der Ladendieb: „Ah, dann ist ja gut. Und Hausverbot oder was?“
+<br>
 Bullin: „Das müssen die dann aussprechen. Wenn Sie dann hier auftauchen, gilt das als Hausfriedensbruch und der Laden kann Anzeige erstellen.“ *(nickt Richtung der Angestellten 1 und 2, diese wirken begierig)*
 <br>
-Angestellte 1 *(neunmalklug)*: „Außerdem fällt noch eine Diebstahlgebühr für den Laden an, 75 Euro kriegen wir dann von Ihnen. Achso und *(rachelüstern)* hiermit spreche ich Ihnen ein Hausverbot aus für 12 Monate.“<br>
-
+Angestellte 1 *(neunmalklug)*: „Außerdem fällt noch eine Diebstahlgebühr für den Laden an, 75 Euro kriegen wir dann von Ihnen. Achso und *(rachelüstern)* hiermit spreche ich Ihnen ein Hausverbot aus für 12 Monate.“
+<br>
 der Ladendieb *(empört)*: „Moment. 75 Euro für das bisschen Rennen die paar Meter bis hierher?“
 <br>
 Bullin *(unterbricht die zornesrote Angestellte 1)*: „Nein, die fällt immer an, wie ne Verwaltungsgebühr.“
@@ -115,16 +116,16 @@ Angestellte 1: „Nur bar. Wenn Sie nicht genug Bargeld haben, behalten wir Ihre
 <br>
 der Ladendieb: „Aber dann muss ich ja das Hausverbot brechen! Nicht dass Sie mich dann gleich nochmal anzeigen!“
 <br>
-die Bullen *(nicken zustimmend)*<br>
-
+die Bullen *(nicken zustimmend)*
+<br>
 Angestellte 1 *(zornig)*: „Ja, das kriegen wir schon hin. Dann müssen Sie eben...“
 <br>
-Bullin *(unterbricht)*: „Moment, haben Sie gesagt <Ausweis einbehalten>? Das dürfen Sie doch garnicht.“<br>
-
-Angestellte 1 und 2 *(erwischt, im Wechsel)*: „Äh… nein, natürlich nicht, aber es gibt jetzt so ein neues Prozedere… äh...“<br>
-
-Bulle *(autoritär)*: „Das dürfen Sie auf keinen Fall. Unternehmen können nicht einfach Dokumente einbehalten! Das darf nur die Polizei.“<br>
-
+Bullin *(unterbricht)*: „Moment, haben Sie gesagt <Ausweis einbehalten>? Das dürfen Sie doch garnicht.“
+<br>
+Angestellte 1 und 2 *(erwischt, im Wechsel)*: „Äh… nein, natürlich nicht, aber es gibt jetzt so ein neues Prozedere… äh...“
+<br>
+Bulle *(autoritär)*: „Das dürfen Sie auf keinen Fall. Unternehmen können nicht einfach Dokumente einbehalten! Das darf nur die Polizei.“
+<br>
 Angestellte 2: „Ich ruf den Chef an… *(ruft an)* … Ladendieb … junge Frau… mit Kind … ja, genau … die sagen, das geht nicht … ach das geht, ok! *(legt auf)* Sie können mit Karte zahlen!“
 <br>
 Bulle und der Ladendieb *(im Chor)*: „Na dann ist ja gut.“
