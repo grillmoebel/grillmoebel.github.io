@@ -150,7 +150,7 @@ der Ladendieb: „Natürlich, hat man doch heute schon gesehen, wie wichtig Bele
 <br>
 Bulle: „Nein, Sie müssen nochmal ins Büro. Da kriegen Sie noch einen Beleg, dass Sie das bezahlt haben, sonst könnten die irgendwann ankommen und sagen, Sie hätten die 75 Euro nicht gezahlt!“
 <br>
-der Ladendieb: „Ok, das ist natürlich wichtig dann!“
+der Ladendieb: „Ok stimmt, das ist natürlich wichtig dann!“
 <br><br>
 *Zum dritten Mal schiebt sich die Prozession durch die engen Regalgänge.*
 <br><br>
