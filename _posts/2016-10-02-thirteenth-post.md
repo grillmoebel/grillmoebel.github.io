@@ -24,7 +24,7 @@ Und wenn du im Oberharz wandern willst,<br>
 Und wenn du von Natur aus die höchsten Berge am liebsten magst,<br>
 Verzichte auf den Brocken!<br>
 Er ist es nicht wert!<br>
-Wie es die auf dem Goetheweg prozessionshaft fortbewegenden Massen bereits andeuten,<br>
+Wie es die auf dem Goetheweg sich prozessionshaft fortbewegenden Massen bereits andeuten,<br>
 Wird es bis zum Gipfel mit jedem Höhenmeter unerträglicher,<br>
 Bis die schrecklichste Agonie ersehenswert scheint!<br>
 So ist der Brocken!<br>
