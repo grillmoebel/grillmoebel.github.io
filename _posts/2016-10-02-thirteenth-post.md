@@ -26,7 +26,7 @@ Verzichte auf den Brocken!<br>
 Er ist es nicht wert!<br>
 Wie es die auf dem Goetheweg sich prozessionshaft fortbewegenden Massen bereits andeuten,<br>
 Wird es bis zum Gipfel mit jedem Höhenmeter unerträglicher,<br>
-Bis die schrecklichste Agonie ersehenswert scheint!<br>
+Bis die schrecklichste Agonie ersehnenswert scheint!<br>
 So ist der Brocken!<br>
 Ein Ungetüm, das sich deiner bemächtigt!<br>
 Eine Naturgewalt, mit Gewalt zum Monstrum gemacht!<br>
