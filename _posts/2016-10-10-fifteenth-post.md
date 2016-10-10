@@ -4,7 +4,7 @@ title: Die ersten Worte - misheard!
 date: 2016-10-10 08:37:00
 ---
 Der Spiegel schreibt [Unfug](http://www.spiegel.de/wissenschaft/mensch/spracherwerb-welche-worte-kleinkinder-zuerst-sprechen-a-1054018.html), das echte Leben gibt's wie immer hier auf Grillmöbel:<br>
-Was Kinder (unverschämte Verallgemeinerung) zwar sagen, aber mit Sicherheit nicht meinen:<br><br>
+Was Einjährige zwar sagen, aber mit Sicherheit nicht meinen:<br><br>
 a) Energie! (selten)<br>
 b) Desaster (häufig)<br>
 c) Halal (andauernd)<br>
