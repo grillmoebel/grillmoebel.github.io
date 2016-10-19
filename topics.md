@@ -3,15 +3,12 @@ layout: page
 title: Themen
 ---
 
-## Reviews
+## in Arbeit
 
 * [Momentaufnahmen eines Musiknerds V - ninetynine red balloons](./2016/08/25/ninth-post/)
-* gedöns
+* 2
 
 ---
 
 
-## Nonsens
-
-* basfasel
-* blafasel
+## in Arbeit
