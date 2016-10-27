@@ -29,7 +29,7 @@ title: Themen
 * [In der Dackelblut-Hölle braucht man Sonne-Nmilch](https://grillmoebel.github.io/2014/09/29/is-it-called-twentyfirst-post/)
 * [Mit Gerbstoffen im Darm lebt es sich besser](https://grillmoebel.github.io/2014/10/26/twentyfourth-post/)
 * [Titel ohne Sonderzeichen](https://grillmoebel.github.io/2014/11/03/twentyfifth-post/)
-* [Blood of Kings](https://grillmoebel.github.io/2014/11/09/twentysixth-post/
+* [Blood of Kings](https://grillmoebel.github.io/2014/11/09/twentysixth-post/)
 * [Momentaufnahmen eines Musiknerds I - Da machste wat mit](https://grillmoebel.github.io/2014/11/15/twentyeigth-post/)
 * [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2015/01/01/thirtyfirst-post/)
 * [Pfefferminzschlüssel --- ist ein guter Schlüssel](https://grillmoebel.github.io/2015/01/19/thirtyfifth-post/)
