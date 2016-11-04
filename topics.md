@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Themen
+title: statt einer Tagcloud
 ---
 
 
-## Zerwürfnisse der Gesellschaft
+## Zerwürfnisse der bürgerlichen Gesellschaft
 
 * [Das ist kein Post zur Weltmeisterschaft im Fußball.](https://grillmoebel.github.io/2014/06/14/eigth-post/)
 * [Räuberameisen können einen Menschen binnen weniger Sekunden bis auf die Knochen abnagen](https://grillmoebel.github.io/2014/06/26/ninth-post/)
@@ -28,6 +28,20 @@ title: Themen
 * [Ab in den Safespace mit dir, du Opfer, hier kommt dein Trigger](https://grillmoebel.github.io/2015/07/11/fiftysixth-post/)
 * [Eine unbesiegbare arische Supernymphe, die von mir besessen ist - das ist wahrhaftig meine Traumfrau (Adolf Hitler; Danger5 - 2,5)](https://grillmoebel.github.io/2015/07/12/fiftyeighth-post/)
 * [Na los, Oma, hol das Stöckchen!](https://grillmoebel.github.io/2015/08/06/sixtieth-post/)
+* [Und das gilt heute noch genau so wie damals, als es geschrieben wurde](https://grillmoebel.github.io/2015/10/03/sixtyeighth-post/)
+* [Hygiene? Nicht mit mir! (Gastbeitrag von Grillmöbel auf einem anderen Blog)](https://grillmoebel.github.io/2015/11/04/seventyfourth-post/) 
+* [Der Elefant macht alles, aber nicht Töröö](https://grillmoebel.github.io/2015/11/15/seventysixth-post/)
+* [Pippi Langstrumpf kann nur tun, was sie will, weil sie sehr viel Geld hat](https://grillmoebel.github.io/2015/12/16/seventyeighth-post/)
+* [Ich will mich ja nicht einmischen, aber du musst folgendes tun und nur das ist richtig](https://grillmoebel.github.io/2015/12/22/eightieth-post/)
+* [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
+* [Es musste ja irgendwann passieren](https://grillmoebel.github.io/2016/01/28/eightyeighth-post/)
+* [Die Septime als Chance](https://grillmoebel.github.io/2016/01/29/eightyninth-post/)
+* [David Bowie nervt](https://grillmoebel.github.io/2016/02/06/nientieth-post/)
+* [I don't make the rules, I just follow them blindly](https://grillmoebel.github.io/2016/02/23/ninetysecond-post/)
+* [Der Kommunismus ist das Mittlere](https://grillmoebel.github.io/2016/03/05/ninetythird-post/)
+* [Und was machen Sie so den lieben langen Tag? - Ich waterboarde mein Baby](https://grillmoebel.github.io/2016/03/05/ninetyfourth-post/)
+
+
 
 ---
 
@@ -44,10 +58,17 @@ title: Themen
 * [Serenators and Incinoritas](https://grillmoebel.github.io/2015/02/01/thirtysixth-post/)
 * [Momentaufnahmen eines Musiknerds II - Bin ich besser als der Nazi, der den Ausländer rausschmeißen will, wenn ich den Nazi rausschmeißen will? Natürlich.](https://grillmoebel.github.io/2015/04/14/fourtyfifth-post/)
 * [Bariblukulelonges](https://grillmoebel.github.io/2015/05/10/fiftieth-post-jubilee-jubilee/)
+* [Aber zergnügen Sie sich nicht!](https://grillmoebel.github.io/2015/09/27/sixtysixth-post/)
+* [And all my promises are lies, and all my love is hate, I am the politician, and I decide your fate (L. Kilmister, again)](https://grillmoebel.github.io/2015/10/31/seventysecond-post/)
+* [Momentaufnahmen eines Musiknerds III – Ich halte wirklich nichts vom Fasten](https://grillmoebel.github.io/2015/12/19/seventyninth-post/)
+* [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
+* [Momentaufnahmen eines Mudiknerds IV - ???](https://grillmoebel.github.io/2016/01/01/eightyfirst-post/)
+* [Nein, jetzt nicht, Mama postet gerade](https://grillmoebel.github.io/2016/01/01/eightysecond-post/)
+* [Die Zugabe muss heute abend ohne mich erklatscht werden](https://grillmoebel.github.io/2016/01/05/eightyfourth-post/)
 
 ---
 
-## Grillmöbel-Hilfestellungen
+## Grillmöbel verstehen 
 
 * [Blogeröffnung mit Schere und rotem Band](https://grillmoebel.github.io/2014/05/23/first-post/)
 * [Wer bin ich eigentlich?](https://grillmoebel.github.io/2014/06/02/third-post/)
@@ -61,6 +82,9 @@ title: Themen
 * [Grillmöbel wird 1 Jahr alt!](https://grillmoebel.github.io/2015/04/16/fourtyseventh-post/)
 * [23.05.2015](https://grillmoebel.github.io/2015/05/23/fiftysecond-post/)
 * [Grillmöbel - Reiner Zufall?](https://grillmoebel.github.io/2015/06/16/fiftyfourth-post/)
+* [Und darum bin ich unter die Blogger gegangen.](https://grillmoebel.github.io/2015/11/01/seventythird-post/)
+* [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
+* [Endlich wieder Europaweltmeisterschaft!](https://grillmoebel.github.io/2016/04/10/ninetyfourth-post/)
 
 ---
 
@@ -77,7 +101,40 @@ title: Themen
 * [Grillmöbel wird 1 Jahr alt!](https://grillmoebel.github.io/2015/04/16/fourtyseventh-post/)
 * [Was ist besser - Stopfmagen oder Wiederkäuer?](https://grillmoebel.github.io/2015/04/28/fourtyeighth-post/)
 * [Wie versprochen - das Brian Cox-Trinkspiel](https://grillmoebel.github.io/2015/07/22/fiftyninth-post/)
+* [Ich bin schnell, als ob ich der Wind wäre](https://grillmoebel.github.io/2015/10/21/seventyfirst-post/)
+* [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
+* [Mara und dann was?](https://grillmoebel.github.io/2016/01/09/eightyfifth-post/)
+* [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
 
+---
+
+## Zerwürfnisse der Gesellschaft Spezial: Verarbeitung des Elternseins
+
+* [Ist das Leben geprägt von Wirrsal, so sind auch die Blogeinträge geprägt von Wirrsal (8.Buch Mose)](https://grillmoebel.github.io/2015/08/14/sixtyfirst-post/)
+* [Irgendwann heißen die Menschen immer Kunibert](https://grillmoebel.github.io/2015/09/03/sixtyfifth-post/)
+* [Keiner bezahlt irgendwas](https://grillmoebel.github.io/2015/09/15/sixtysecond-post/)
+* [Wer Latein kann, ist (wie immer) im Vorteil](https://grillmoebel.github.io/2015/09/18/sixtythird-post/)
+* [We are worse than animals, we hunger for the kill (L. Kilmister)](https://grillmoebel.github.io/2015/09/22/sixtyfourth-post/)
+* [Ein schmutziges Gedicht - doch nicht!](https://grillmoebel.github.io/2015/09/29/sixtyseventh-post/)
+* [You know what I mean, when I say I hate everything - I mean that I hate everything](https://grillmoebel.github.io/2015/10/04/sixtyninth-post/)
+* [Lance Armstrong hat jeden besiegt, aber nicht die Wahrheit (Zitiert nach einem tatsächlich existierenden Filmplakat)](https://grillmoebel.github.io/2015/10/11/seventieth-post/)
+* [And all my promises are lies, and all my love is hate, I am the politician, and I decide your fate (L. Kilmister, again)](https://grillmoebel.github.io/2015/10/31/seventysecond-post/)
+* [Im Haus meines Erzfeindes hat jedes Badezimmer eine Toilette und ein Pissoir](https://grillmoebel.github.io/2015/11/19/seventyseventh-post/)
+* [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
+* [Manchmal ist das Abstrakte 70 Milliliter und das Konkrete 80 Milliliter](https://grillmoebel.github.io/2016/01/17/eightysixth-post/)
+* [Powerantworten für Leute mit Baby](https://grillmoebel.github.io/2016/01/26/eightyseventh-post/)
+* [Powerentgegnungen für Leute mit Baby](https://grillmoebel.github.io/2016/02/10/ninetyfirst-post/)
+* [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
+* [Ich mag alle Menschen, sofern sie nicht muskulös sind](https://grillmoebel.github.io/2016/04/30/ninetysixth-post/)
+
+---
+
+## (allzeit berechtigte) Verhöhnung von Glaubensinhalten
+
+* [Ist das Leben geprägt von Wirrsal, so sind auch die Blogeinträge geprägt von Wirrsal (8.Buch Mose)](https://grillmoebel.github.io/2015/08/14/sixtyfirst-post/)
+* [We are worse than animals, we hunger for the kill (L. Kilmister)](https://grillmoebel.github.io/2015/09/22/sixtyfourth-post/)
+* [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
+* [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
 ---
 
 ## gute Bandnamen
@@ -93,13 +150,19 @@ title: Themen
 * [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2015/01/01/thirtyfirst-post/)
 * [Ohne Öl keine Bratkartoffeln, auch wenn sie blau sind!](https://grillmoebel.github.io/2015/03/02/thirtyninth-post/)
 * [Ich mag leichte Würstchen mit vorzüglichem Geschmack](https://grillmoebel.github.io/2015/07/11/fiftyseventh-post/)
+* [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
 
 ---
 
-## für den Verfassungsschutz
+## Grillmöbel Verfassungsschutz-Service
 
 * [Post für den Verfassungsschutz](https://grillmoebel.github.io/2014/08/29/sixteenth-post/)
 * [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2015/01/01/thirtyfirst-post/)
+* [Ich will mich ja nicht einmischen, aber du musst folgendes tun und nur das ist richtig](https://grillmoebel.github.io/2015/12/22/eightieth-post/)
+* [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
+* [Die Zugabe muss heute ohne mich erklatscht werden](https://grillmoebel.github.io/2016/01/05/eightyfourth-post/)
+* [Manchmal ist das Abstrakte 70 Milliliter und das Konkrete 80 Milliliter](https://grillmoebel.github.io/2016/01/17/eightysixth-post/)
+* [Endlich wieder Europaweltmeisterschaft!](https://grillmoebel.github.io/2016/04/10/ninetyfourth-post/)
 
 ---
 
@@ -123,3 +186,5 @@ title: Themen
 * [Ab in den Safespace mit dir, du Opfer, hier kommt dein Trigger](https://grillmoebel.github.io/2015/07/11/fiftysixth-post/)
 * [Eine unbesiegbare arische Supernymphe, die von mir besessen ist - das ist wahrhaftig meine Traumfrau (Adolf Hitler; Danger5 - 2,5)](https://grillmoebel.github.io/2015/07/12/fiftyeighth-post/)
 * [Wie versprochen - das Brian Cox-Trinkspiel](https://grillmoebel.github.io/2015/07/22/fiftyninth-post/)
+* [Ist das Leben geprägt von Wirrsal, so sind auch die Blogeinträge geprägt von Wirrsal (8.Buch Mose)](https://grillmoebel.github.io/2015/08/14/sixtyfirst-post/)
+* [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
