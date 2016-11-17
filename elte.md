@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zerwürfnisse der Gesellschaft Spezial: Verarbeitung des Elternseins
+title: Zerwürfnisse der Gesellschaft Spezial - Verarbeitung des Elternseins
 ---
 
 ## 2015
