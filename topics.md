@@ -40,8 +40,16 @@ title: statt einer Tagcloud
 * [I don't make the rules, I just follow them blindly](https://grillmoebel.github.io/2016/02/23/ninetysecond-post/)
 * [Der Kommunismus ist das Mittlere](https://grillmoebel.github.io/2016/03/05/ninetythird-post/)
 * [Und was machen Sie so den lieben langen Tag? - Ich waterboarde mein Baby](https://grillmoebel.github.io/2016/03/05/ninetyfourth-post/)
-
-
+* [ghostwriters in the sky](https://grillmoebel.github.io/2016/05/11/ninetyseventh-post/)
+* [Obs ein Markt ist oder eine Kirche, es ist immer ein Markt (Brecht, irgendwo)](https://grillmoebel.github.io/2016/05/20/ninetyeighth-post/)
+* [Das große Grillmöbel-Geständnis](https://grillmoebel.github.io/2016/05/31/ninetyninth-post/)
+* [Helmut Kohl ist ein dummes Arschloch und ich hoffe, dass er bald stirbt](https://grillmoebel.github.io/2016/06/12/one-hundreth-post/)
+* [Oh, seht mich an, ich bin ein CEO](https://grillmoebel.github.io/2016/06/23/second-post/)
+* [Die Büste der Nosferatu](https://grillmoebel.github.io/2016/07/31/fifth-post/)
+* [Berichtigung - Pippi Langstrumpf kann nur tun, was sie will, weil sie sehr viel GOLD hat](https://grillmoebel.github.io/2016/08/17/seventh-post/)
+* [bringin‘ a snake to a date is like bringin‘ a bike to a déja vu](https://grillmoebel.github.io/2016/09/22/twelvth-post/)
+* [Die Brüste der Nofretete](https://grillmoebel.github.io/2016/10/07/fourteenth-post/)
+* [Jetzt hör endlich mal auf, getriggert zu werden!](https://grillmoebel.github.io/2016/11/13/seventeenth-post/)
 
 ---
 
@@ -65,6 +73,10 @@ title: statt einer Tagcloud
 * [Momentaufnahmen eines Mudiknerds IV - ???](https://grillmoebel.github.io/2016/01/01/eightyfirst-post/)
 * [Nein, jetzt nicht, Mama postet gerade](https://grillmoebel.github.io/2016/01/01/eightysecond-post/)
 * [Die Zugabe muss heute abend ohne mich erklatscht werden](https://grillmoebel.github.io/2016/01/05/eightyfourth-post/)
+* [And if the church or the state can't find a cure for all the hate, then I can't find the need to vote or even pray (The Rumjacks - Blows and unkind words)](https://grillmoebel.github.io/2016/08/21/eighth-post/)
+* [Momentaufnahmen eines Musiknerds V - ninetynine red balloons](https://grillmoebel.github.io/2016/08/25/ninth-post/)
+* [Der Papst meldet sich zu Wort](https://grillmoebel.github.io/2016/09/07/eleventh-post/)
+* [I don't know if you want me in your living room... but just in case](https://grillmoebel.github.io/2016/10/26/sixteenth-post/)
 
 ---
 
@@ -85,6 +97,7 @@ title: statt einer Tagcloud
 * [Und darum bin ich unter die Blogger gegangen.](https://grillmoebel.github.io/2015/11/01/seventythird-post/)
 * [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
 * [Endlich wieder Europaweltmeisterschaft!](https://grillmoebel.github.io/2016/04/10/ninetyfourth-post/)
+* [Der Höhepunkt eines jeden Liedes ist die Dönerstrophe](https://grillmoebel.github.io/2016/07/07/third-post/)
 
 ---
 
@@ -105,6 +118,7 @@ title: statt einer Tagcloud
 * [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
 * [Mara und dann was?](https://grillmoebel.github.io/2016/01/09/eightyfifth-post/)
 * [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
+* [O Haupt voll Blut und Wunden / sitz ich beim Schwager vorn](https://grillmoebel.github.io/2016/10/02/thirteenth-post/)
 
 ---
 
@@ -126,6 +140,8 @@ title: statt einer Tagcloud
 * [Powerentgegnungen für Leute mit Baby](https://grillmoebel.github.io/2016/02/10/ninetyfirst-post/)
 * [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
 * [Ich mag alle Menschen, sofern sie nicht muskulös sind](https://grillmoebel.github.io/2016/04/30/ninetysixth-post/)
+* [Der Papst meldet sich zu Wort](https://grillmoebel.github.io/2016/09/07/eleventh-post/)
+* [Die ersten Worte - misheard!](https://grillmoebel.github.io/2016/10/10/fifteenth-post/)
 
 ---
 
@@ -135,6 +151,7 @@ title: statt einer Tagcloud
 * [We are worse than animals, we hunger for the kill (L. Kilmister)](https://grillmoebel.github.io/2015/09/22/sixtyfourth-post/)
 * [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
 * [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
+* [Das Internet sagt, ich bin Goethe (Kein Witz!)](https://grillmoebel.github.io/2016/08/27/tenth-post/)
 
 ---
 
@@ -164,6 +181,9 @@ title: statt einer Tagcloud
 * [Die Zugabe muss heute ohne mich erklatscht werden](https://grillmoebel.github.io/2016/01/05/eightyfourth-post/)
 * [Manchmal ist das Abstrakte 70 Milliliter und das Konkrete 80 Milliliter](https://grillmoebel.github.io/2016/01/17/eightysixth-post/)
 * [Endlich wieder Europaweltmeisterschaft!](https://grillmoebel.github.io/2016/04/10/ninetyfourth-post/)
+* [ghostwriters in the sky](https://grillmoebel.github.io/2016/05/11/ninetyseventh-post/)
+* [And if the church or the state can't find a cure for all the hate, then I can't find the need to vote or even pray (The Rumjacks - Blows and unkind words)](https://grillmoebel.github.io/2016/08/21/eighth-post/)
+* [Die Brüste der Nofretete](https://grillmoebel.github.io/2016/10/07/fourteenth-post/)
 
 ---
 
@@ -189,3 +209,7 @@ title: statt einer Tagcloud
 * [Wie versprochen - das Brian Cox-Trinkspiel](https://grillmoebel.github.io/2015/07/22/fiftyninth-post/)
 * [Ist das Leben geprägt von Wirrsal, so sind auch die Blogeinträge geprägt von Wirrsal (8.Buch Mose)](https://grillmoebel.github.io/2015/08/14/sixtyfirst-post/)
 * [Der Grillmöbel-Jahresrückblick](https://grillmoebel.github.io/2016/01/01/eightythird-post/)
+* [Shaaaa-la-la-la-la-la-uaaaargrhhhhhhh!!!!](https://grillmoebel.github.io/2016/06/14/lets-say-first-post-again/)
+* [Der Höhepunkt eines jeden Liedes ist die Dönerstrophe](https://grillmoebel.github.io/2016/07/07/third-post/)
+* [Kann Gott ein Babyphon herstellen, das so laut ist, dass es in einer Endlosschleife auf sich selbst reagiert?](https://grillmoebel.github.io/2016/07/14/fourth-post/)
+* [Der Finger des Allmächtigen wird deinen Hintern kurieren (Lafargue, Pius IX. im Paradies)](https://grillmoebel.github.io/2016/08/03/sixth-post/)
