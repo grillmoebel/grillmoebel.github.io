@@ -3,7 +3,7 @@ layout: page
 title: statt einer Tagcloud
 ---
 
-[Zerwürfnisse der bürgerlichen Gesellschaft](http://grillmoebel.github.io/topics/zerw)
+[Zerwürfnisse der bürgerlichen Gesellschaft](http://grillmoebel.github.io/zerw)
 
 [Musiknerdtum (enthält zu einem gewissen Prozentsatz "Zerwürfnisse der Gesellschaft")](http://grillmoebel.github.io/topics/musi)
 
