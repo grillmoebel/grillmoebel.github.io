@@ -24,13 +24,16 @@ weil man euch dafür liebt<br>
 Hey Leute, wisst zu schätzen<br>
 was es hier immer noch gibt<br><br>
 
+Heute gibt's auch Paviane<br>
+die drehen richtig auf<br>
+alles andere als Freiwild<br>
+kriegt n fetteren Applaus<br>
+
 Mit dem Auto meiner Ex<br>
 würd ich nur nach Hause fahren<br>
 wenn sie ein Auto hätte<br>
 oder ich eine Ex<br>
-lasst das mal endlich mit dem Auto meiner E---
-layout: post
-title: Zuviel für Berlin oder zuviel Berlin für...?
+lasst das mal endlich mit dem Auto meiner Ex
 
 
 
