@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aus den News - Susan Sarandon (geschätztes Vermögen: 50 Mio Dollar) besucht eine Flüchtlingsunterkunft in Berlin und spendet 2 Tischtennisplatten (~300 Euro)
+title: Susan Sarandon ist ein Geizkragen
 date: 2017-07-04 08:37:00
 ---
 
