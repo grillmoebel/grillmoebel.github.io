@@ -11,8 +11,8 @@ meinem Heimatort Berlinchen, doch immerhin im 120 Kilometer entfernten Berlin re
 auch nur knapp zweieinhalb Stunden, das kann man schonmal machen für The Roughneck Riot, die ich bereits 2011 in Hamburg zum ersten Mal sehen durfte.
 Damals machten sie noch recht beschaulichen Folkpunk à la Pogues, man höre das erste Album als Beleg. Eine der wenigen Äußerungen dieser hochpolitischen Band,
 der ich aufs schärfste widersprechen muss, ist die Abwertung ebendieses Albums durch die komplette Band in einem privaten Gespräch 2014.<br<
-"Don't buy it! It's shit!", so der Bassist überzeugt zu  mir. "why?", fragte ich zurück, sichtlich verwirrt über den selten 
-konsequenten Antikapitalismus der Band. "Everything. The songs are shit, the production is shit, the sound is shit!"<br<
+"Don't buy it! It's shit!", so der Bassist überzeugt zu  mir. "Why?", fragte ich zurück, sichtlich verwirrt über den selten 
+konsequenten Antikapitalismus der Band. "Everything. The songs are shit, the production is shit, the sound is shit!"<br>
 Ich habe es dennoch (oder gerade deswegen?) gekauft und auch wenn ich die Sichtweise von The Roughneck Riot in Abgrenzung zu den
 beiden folgenden Alben *nachvollziehen* kann, bin ich ein großer Fan dieses gemächlichen, nicht besonders gut produzierten Albums.
 Ich höre es regelmäßig und bis auf manche Pogues-Alben gibt es nichts auf der Welt, was die speziellen Bedürfnisse erfüllen kann, 
