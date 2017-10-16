@@ -10,13 +10,13 @@ Beziehungsweise die da oben! So, genug des Relateablen, es geht natürlich um di
 meinem Heimatort Berlinchen, doch immerhin im 120 Kilometer entfernten Berlin regelmäßig auftreten. Mit der 746 dauerts bis da hin
 auch nur knapp zweieinhalb Stunden, das kann man schonmal machen für The Roughneck Riot, die ich bereits 2011 in Hamburg zum ersten Mal sehen durfte.
 Damals machten sie noch recht beschaulichen Folkpunk à la Pogues, man höre das erste Album als Beleg. Eine der wenigen Äußerungen dieser hochpolitischen Band,
-der ich aufs schärfste widersprechen muss, ist die Abwertung ebendieses Albums durch die komplette Band in einem privaten Gespräch 2014.
+der ich aufs schärfste widersprechen muss, ist die Abwertung ebendieses Albums durch die komplette Band in einem privaten Gespräch 2014.<br<
 "Don't buy it! It's shit!", so der Bassist überzeugt zu  mir. "why?", fragte ich zurück, sichtlich verwirrt über den selten 
-konsequenten Antikapitalismus der Band. "Everything. The songs are shit, the production is shit, the sound is shit!"
+konsequenten Antikapitalismus der Band. "Everything. The songs are shit, the production is shit, the sound is shit!"<br<
 Ich habe es dennoch (oder gerade deswegen?) gekauft und auch wenn ich die Sichtweise von The Roughneck Riot in Abgrenzung zu den
 beiden folgenden Alben *nachvollziehen* kann, bin ich ein großer Fan dieses gemächlichen, nicht besonders gut produzierten Albums.
 Ich höre es regelmäßig und bis auf manche Pogues-Alben gibt es nichts auf der Welt, was die speziellen Bedürfnisse erfüllen kann, 
-die "Night train with the reaper"mit einem Schulterzucken komplett befriedigt.<br>
+die "Night train with the reaper" mit einem Schulterzucken komplett befriedigt.<br>
 Dennoch ein hervorragender Dialog, der in meinem Leben hoffentlich nicht, aber wahrscheinlich doch, einzigartig bleiben wird.
 Was noch? Die seitdem veröffentlichte Musik zeichnet sich durch eine ungewohnte [Mischung](https://www.youtube.com/watch?v=yFgi_wxZvGg) von melodischem Pathos und Punk-/Hardcore-Einflüssen aus, wobei die Band einerseits 3 typische Folk-Melodieinstrumente verwendet 
 (Mandoline, Banjo, Akkordeon), die Melodien andererseits selten einem tatsächlich existierenden folkloristischen Reservoir entnommen sind. Weird!
@@ -30,7 +30,7 @@ Rezensierende auslassen, hier nur: sie ist sehr sehr gut. Das größte Geschenk,
 zuvor hatten, sondern auch noch zwischen all dem Touren und Songwriting es fertig gebracht haben, ihre "alten" Lieder immer wieder mit Veränderungen auszustatten, ob textlich, strukturell oder musikalisch. 
 Für mein Musiknerdtum, das oft zu einer gewissen Berechenbarkeit führt, gibt es kaum Großartigeres. So viele Überraschungen! So viel Unerwartetes im Bekannten!
 <br> Nicht nur dafür, aber auch alleine dafür sollte man der ganzen Band ein Grundeinkommen verleihen, denn Musik ist auch unbezahlte bzw. kaum bezahlte Arbeit (offenbar auch noch für TRR)
- und man kann nicht auf der einen Seite volle Konzertstätten haben und auf der anderen Seite können die Leute nach Jahren immer noch nicht einmal davon leben. Tja. Da sind The Roughneck riot und ich uns aber zum Glück einig:
-You will always suffer when they play their games <br>
-Und eigentlich nicht so Grillmöbel, aber ausnahmsweise "kämpferisch": But we will not break!<br>
-I sure hope so, aber das Falsche mit The Roughneck Riot ist auf jeden Fall eine okaye Alternative zum Richtigen.
+ und man kann nicht auf der einen Seite volle Konzertstätten haben und auf der anderen Seite können die Leute nach Jahren immer noch nicht einmal davon leben. Tja. Da sind The Roughneck Riot und ich uns aber zum Glück einig:<br>
+*You will always suffer when they play their games* <br>
+Und eigentlich nicht so Grillmöbel, aber ausnahmsweise "kämpferisch": *But we will not break!*<br>
+I sure hope so, aber das Falsche mit The Roughneck Riot ist auf jeden Fall eine okaye Alternative zum Richtigen (Kompliment des Jahrtausends).
