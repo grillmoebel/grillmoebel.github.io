@@ -17,7 +17,7 @@ Blues: Das Genre, dessen Stärken dort liegen, wo diejenigen, die es nicht verst
 Crossover: Kein eigentliches Genre (außer bei Rage against the machine), aber super Sache. Ohne Crossover kein Popa Chubby, kein Jethro Tull und vor allem kein LEFTÖVER CRACK. 
 <br>
 <br>
-Metal: Wichtiger, je bauernhafter das Wesen. Heavy ("schwer") Metal ist das definitiv leichteste Untergenre, egal wie man den Begriff versteht. Melodic Metal ist melodisch, Vinking und Power Metal auch, Thrash und Death Metal nicht, dafür schreien die Leute lustig rum. Black Metal sorgt immerhin dafür, dass Kirchen angezündet werden, aber ist lahm, wenn er rechtsradikale Inhalte verbreitet, NSBM hört sich an wie ein sexueller Fetisch (ist es auch). White Metal machen Leute, die nichts, aber auch garnichts verstehen, sonst würden sie auch Kirchen anzünden. Motörhead ist und war immer Rock'n'Roll und kein Metal, Beweise hat das Netz. 
+Metal: Wichtiger, je bauernhafter das Wesen. Heavy ("schwer") Metal ist das definitiv leichteste Untergenre, egal wie man den Begriff versteht. Melodic Metal ist melodisch, Vinking und Power Metal allerdings auch, Thrash und Death Metal nicht, dafür schreien die Leute lustig rum. Black Metal sorgt immerhin dafür, dass Kirchen angezündet werden, aber ist lahm, wenn er rechtsradikale Inhalte verbreitet, NSBM hört sich an wie ein sexueller Fetisch (ist es auch) und "Burzum" ist zwar ein lustiger Name, aber ein absoluter Trottel. White Metal machen Leute, die nichts, aber auch garnichts verstehen, sonst würden sie auch Kirchen anzünden. Motörhead ist und war immer Rock'n'Roll und kein Metal, Beweise hat das Netz. 
 <br>
 <br>
-Ska: Bläser haben hier nichts verloren. Schnelle Offbeats sind aber ok. Es gibt nur eine Ska-Band: LEFTÖVER CRACK.
+Ska: Bläser haben hier nichts verloren. Schnelle Offbeats sind aber ok. Es gibt eigentlich nur eine Ska-Band: LEFTÖVER CRACK.
