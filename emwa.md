@@ -33,4 +33,5 @@ title: Empfehlungen/Warnungen (Musik ausgenommen)
 * [Mara und dann was?](https://grillmoebel.github.io/2016/01/09/eightyfifth-post/)
 * [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
 * [O Haupt voll Blut und Wunden / sitz ich beim Schwager vorn](https://grillmoebel.github.io/2016/10/02/thirteenth-post/)
+* [Luxus für alle - Bourride vom roten Knurrhahn an eingemachtem Fenchel und geröstetem Wolfsbarsch für die Welt! (statt Brot für die Welt)](http://grillmoebel.github.io/2016/11/29/eighteenth-post/)
 
