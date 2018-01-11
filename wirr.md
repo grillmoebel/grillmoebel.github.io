@@ -38,5 +38,20 @@ title: der Rest ist Wirrsal
 * [Shaaaa-la-la-la-la-la-uaaaargrhhhhhhh!!!!](https://grillmoebel.github.io/2016/06/14/lets-say-first-post-again/)
 * [Der Höhepunkt eines jeden Liedes ist die Dönerstrophe](https://grillmoebel.github.io/2016/07/07/third-post/)
 * [Kann Gott ein Babyphon herstellen, das so laut ist, dass es in einer Endlosschleife auf sich selbst reagiert?](https://grillmoebel.github.io/2016/07/14/fourth-post/)
-* [Der Finger des Allmächtigen wird deinen Hintern kurieren (Lafargue, Pius IX. im Paradies)](https://grillmoebel.github.io/2016/08/03/sixth-post/)
 * [Mut zur Nacht](https://grillmoebel.github.io/2016/12/19/twentyfirst-post/)
+
+---
+
+## 2017
+
+* [Der Grillmöbel-Jahresrückblick (3-jähriges Jubiläum)](https://grillmoebel.github.io/2017/01/01/twentysecond-post/)
+* [Neues aus der Provinz](https://grillmoebel.github.io/2017/01/16/twentyfourth-post/)
+* [Wäre, wer einst Fragmente veröffentlichte, heute Blogger?](https://grillmoebel.github.io/2017/02/26/twnetyeighth-post/)
+* [auf dem Weg zur finanziellen Freiheit](https://grillmoebel.github.io/2017/03/25/twentyninth-post/)
+* [Ich nutze ein Deo auf Gurkenbasis](https://grillmoebel.github.io/2017/10/14/fourtysecond-post/)
+* [Der Grillmöbel-Jahresrückblick 2017](https://grillmoebel.github.io/2017/12/31/fourtyseventh-post/)
+
+---
+
+## 2018
+

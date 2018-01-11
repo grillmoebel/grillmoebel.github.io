@@ -25,3 +25,15 @@ title: Grillmöbel Verfassungsschutz-Service
 * [ghostwriters in the sky](https://grillmoebel.github.io/2016/05/11/ninetyseventh-post/)
 * [And if the church or the state can't find a cure for all the hate, then I can't find the need to vote or even pray (The Rumjacks - Blows and unkind words)](https://grillmoebel.github.io/2016/08/21/eighth-post/)
 * [Die Brüste der Nofretete](https://grillmoebel.github.io/2016/10/07/fourteenth-post/)
+
+---
+
+## 2017
+
+* [Der Grillmöbel-Jahresrückblick (3-jähriges Jubiläum)](http://grillmoebel.github.io/2017/01/01/twentysecond-post/)
+* [Das ist mir ein innerer Reichstagsbrand!](https://grillmoebel.github.io/2017/02/01/twentyfifth-post/)
+* [Der Grillmöbel-Jahresrückblick 2017](https://grillmoebel.github.io/2017/12/31/fourtyseventh-post/)
+
+---
+
+## 2018

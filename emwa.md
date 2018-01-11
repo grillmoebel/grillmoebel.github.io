@@ -33,4 +33,19 @@ title: Empfehlungen/Warnungen (Musik ausgenommen)
 * [Mara und dann was?](https://grillmoebel.github.io/2016/01/09/eightyfifth-post/)
 * [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
 * [O Haupt voll Blut und Wunden / sitz ich beim Schwager vorn](https://grillmoebel.github.io/2016/10/02/thirteenth-post/)
+* [Luxus für alle - Bourride vom roten Knurrhahn an eingemachtem Fenchel und geröstetem Wolfsbarsch für die Welt! (statt Brot für die Welt)](https://grillmoebel.github.io/2016/11/29/eighteenth-post/)
 
+---
+
+## 2017
+
+* [Der Grillmöbel-Jahresrückblick (3-jähriges Jubiläum)](https://grillmoebel.github.io/2017/01/01/twentysecond-post/)
+* [Denkt denn niemand an die armen Selbstmordattentäter?](https://grillmoebel.github.io/2017/02/25/twentysixth-post/)
+* [Sojalecithin ist mir egal](https://grillmoebel.github.io/2017/12/24/fourtysixth-post/)
+* [Der Grillmöbel-Jahresrückblick 2017](https://grillmoebel.github.io/2017/12/31/fourtyseventh-post/)
+
+---
+
+## 2018
+
+*[10 Textstellen, die Ihr Leben für immer verändern werden](https://grillmoebel.github.io/2018/01/01/fourtyeighth-post/)

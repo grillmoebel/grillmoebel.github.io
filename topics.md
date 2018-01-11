@@ -9,9 +9,13 @@ title: statt einer Tagcloud
 
 [Grillmöbel verstehen\*](http://grillmoebel.github.io/gril) 
 
+[X' Erlebnisse im Land des Schreckens\*](http://grillmoebel.github.io/x)
+
 [Empfehlungen/Warnungen (Musik ausgenommen)\*](http://grillmoebel.github.io/emwa)
 
 [Zerwürfnisse der Gesellschaft Spezial: Verarbeitung des Elternseins](http://grillmoebel.github.io/elte)
+
+[GM verkürzt](http://grillmoebel.github.io/gmv)
 
 [(allzeit berechtigte) Verhöhnung von Glaubensinhalten\*](http://grillmoebel.github.io/verh)
 

@@ -46,7 +46,6 @@ title: Zerwürfnisse der Gesellschaft
 * [Es musste ja irgendwann passieren](https://grillmoebel.github.io/2016/01/28/eightyeighth-post/)
 * [Die Septime als Chance](https://grillmoebel.github.io/2016/01/29/eightyninth-post/)
 * [David Bowie nervt](https://grillmoebel.github.io/2016/02/06/nientieth-post/)
-* [I don't make the rules, I just follow them blindly](https://grillmoebel.github.io/2016/02/23/ninetysecond-post/)
 * [Der Kommunismus ist das Mittlere](https://grillmoebel.github.io/2016/03/05/ninetythird-post/)
 * [Und was machen Sie so den lieben langen Tag? - Ich waterboarde mein Baby](https://grillmoebel.github.io/2016/03/05/ninetyfourth-post/)
 * [ghostwriters in the sky](https://grillmoebel.github.io/2016/05/11/ninetyseventh-post/)
@@ -59,4 +58,28 @@ title: Zerwürfnisse der Gesellschaft
 * [bringin‘ a snake to a date is like bringin‘ a bike to a déja vu](https://grillmoebel.github.io/2016/09/22/twelvth-post/)
 * [Die Brüste der Nofretete](https://grillmoebel.github.io/2016/10/07/fourteenth-post/)
 * [Jetzt hör endlich mal auf, getriggert zu werden!](https://grillmoebel.github.io/2016/11/13/seventeenth-post/)
+* [Luxus für alle - Bourride vom roten Knurrhahn an eingemachtem Fenchel und geröstetem Wolfsbarsch für die Welt! (statt Brot für die Welt)](https://grillmoebel.github.io/2016/11/29/eighteenth-post/)
+* [das papst mit dem konzept](https://grillmoebel.github.io/2016/12/10/twentieth-post/)
 
+---
+
+## 2017
+
+* [Der Grillmöbel-Jahresrückblick (3-jähriges Jubiläum)](https://grillmoebel.github.io/2017/01/01/twentysecond-post/)
+* [Der Grillmöbel-Jahresvorausblick](https://grillmoebel.github.io/2017/01/01/twentythird-post/)
+* [Homos in der Afd sind lächerlich](https://grillmoebel.github.io/2017/02/24/twentyfifth-post/)
+* [Psycho-Login macht Nutzer wahnsinnig](https://grillmoebel.github.io/2017/02/26/twentyseventh-post/)
+* [willkommen in der Welt der Hütchenspieler](https://grillmoebel.github.io/2017/04/27/ththththththth-post/)
+* [Wir hatten noch nie was gegen Homosexuelle, außer damals, als wir was gegen Homosexuelle hatten](https://grillmoebel.github.io/2017/04/27/thirtyfirst-post/)
+* [Bomben an Goethes Tourbus](https://grillmoebel.github.io/2017/06/10/thirtythird-post/)
+* [Ich verwende Aronal und Elmex, wie es mir gerade in den Kram passt](https://grillmoebel.github.io/2017/06/18/thirtyfifth-post/)
+* [Ich bin der Sohn einer Schusswaffe](https://grillmoebel.github.io/2017/10/01/fourtieth-post/)
+* [Trink Leitungswasser, Arschloch](https://grillmoebel.github.io/2017/10/05/fourtyfirst-post/)
+* [Der Grillmöbel-Jahresrückblick 2017](https://grillmoebel.github.io/2017/12/31/fourtyseventh-post/)
+
+---
+
+## 2018
+
+* [Wirf dich in Schale, Liebling, der Kammerjäger kommt](https://grillmoebel.github.io/2018/01/02/fourtyninth-post/)
+* [Reite das Revival-Pferd! Reite es zu Tode!](https://grillmoebel.github.io/2018/01/10/fiftyfirst-post/)

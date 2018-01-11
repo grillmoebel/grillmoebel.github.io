@@ -39,4 +39,17 @@ title: Musiknerdtum
 * [Der Papst meldet sich zu Wort](https://grillmoebel.github.io/2016/09/07/eleventh-post/)
 * [I don't know if you want me in your living room... but just in case](https://grillmoebel.github.io/2016/10/26/sixteenth-post/)
 
+---
 
+## 2017
+
+* [Der Grillmöbel-Jahresrückblick (3-jähriges Jubiläum)](http://grillmoebel.github.io/2017/01/01/twentysecond-post/)
+* [Zuviel für Berlin oder zuviel Berlin für...?](http://grillmoebel.github.io/2017/01/20/twentysecond-post/)
+* [Momentaufnahmen eines Musiknerds VI - do you like music?](https://grillmoebel.github.io/2017/10/15/fourtythird-post/)
+* [Der Grillmöbel-Jahresrückblick 2017](https://grillmoebel.github.io/2017/12/31/fourtyseventh-post/)
+
+---
+
+## 2018
+
+* [ich füge Speisen Honig hinzu, um Veganer zu ärgern](https://grillmoebel.github.io/2018/01/03/fiftieth-post/)

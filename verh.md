@@ -16,4 +16,16 @@ title: (allzeit berechtigte) Verhöhnung von Glaubensinhalten
 * [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
 * [Das Internet sagt, ich bin Goethe (Kein Witz!)](https://grillmoebel.github.io/2016/08/27/tenth-post/)
 
+---
 
+## 2017
+
+* [Der Grillmöbel-Jahresrückblick (3-jähriges Jubiläum)](https://grillmoebel.github.io/2017/01/01/twentysecond-post/)
+* [Denkt denn niemand an die armen Selbstmordattentäter?](https://grillmoebel.github.io/2017/02/25/twentysixth-post/)
+* [Ist die Schöpfung als solche eigentlich konkurrenzfähig?](https://grillmoebel.github.io/2017/07/12/thirtyseventh-post/)
+* [Die heilige Einfältigkeit](https://grillmoebel.github.io/2017/09/02/thirtyninth-post/)
+* [Der Grillmöbel-Jahresrückblick 2017](https://grillmoebel.github.io/2017/12/31/fourtyseventh-post/)
+
+---
+
+## 2018
