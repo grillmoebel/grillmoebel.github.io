@@ -16,3 +16,4 @@ title: (allzeit berechtigte) Verhöhnung von Glaubensinhalten
 * [Es gibt Hagel und Graupel und dann gibt es noch Graupen, aber das kann man essen](https://grillmoebel.github.io/2016/04/14/ninetyfifth-post/)
 * [Das Internet sagt, ich bin Goethe (Kein Witz!)](https://grillmoebel.github.io/2016/08/27/tenth-post/)
 
+
