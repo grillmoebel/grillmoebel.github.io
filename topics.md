@@ -11,7 +11,7 @@ title: statt einer Tagcloud
 
 [X' Erlebnisse im Land des Schreckens\*](http://grillmoebel.github.io/x)
 
-[Nichtprosa]((http://grillmoebel.github.io/lyr)
+[Nichtprosa](http://grillmoebel.github.io/lyr)
 
 [Empfehlungen/Warnungen (Musik ausgenommen)\*](http://grillmoebel.github.io/emwa)
 
