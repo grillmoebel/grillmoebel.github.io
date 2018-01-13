@@ -12,3 +12,5 @@ title: GM verkürzt
 ---
 
 ## 2018
+
+* [Mehr als 4,5 Millionen Kg haben erfolgreiche BodyChanger bereits abgenommen](https://grillmoebel.github.io/2018/01/13/fiftysecond-post/)
