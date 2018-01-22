@@ -83,3 +83,4 @@ title: Zerwürfnisse der Gesellschaft
 
 * [Wirf dich in Schale, Liebling, der Kammerjäger kommt](https://grillmoebel.github.io/2018/01/02/fourtyninth-post/)
 * [Reite das Revival-Pferd! Reite es zu Tode!](https://grillmoebel.github.io/2018/01/10/fiftyfirst-post/)
+* [Mut zur Nacht revisited](https://grillmoebel.github.io/2018/01/22/fiftythird-post/)

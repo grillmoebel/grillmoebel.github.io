@@ -55,3 +55,4 @@ title: der Rest ist Wirrsal
 
 ## 2018
 
+* [Mut zur Nacht revisited](https://grillmoebel.github.io/2018/01/22/fiftythird-post/)
