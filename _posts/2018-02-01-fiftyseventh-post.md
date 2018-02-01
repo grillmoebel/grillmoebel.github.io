@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oberstleutnant Jacqueline: Darum bin ich so gerne Soldatin
+title: Oberstleutnant Jacqueline - Darum bin ich so gerne Soldatin
 date: 2018-02-01 08:37:00
 ---
 
