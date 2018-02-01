@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oberstleutnant Jacqueline: Darum bin ich so gerne Soldatin (Bild der Frau 06/16)
+title: Oberstleutnant Jacqueline: Darum bin ich so gerne Soldatin (Bild der Frau Juni 2016) 
 date: 2018-02-01 08:37:00
 ---
 
