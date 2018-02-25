@@ -6,9 +6,9 @@ date: 2018-02-24 08:37:00
 
 Ich habe mich mal wieder gefragt, was dieses Grillmöbel eigentlich ist, von dem alle reden. Fest steht, das definiert bereits der erste Post, dass es eine Website im Internet ist, so war es schon immer und so wird es immer sein.
 Aber was außerdem? Ist Grillmöbel ein Bollwerk? Ich denke, ja. Nur gegen was? Die Digitalisierung? Die Verrohung der Gesellschaft in Zeiten derselben? Den Faschismus? Na, auf jeden Fall all das und 
-vor allem Snapchat, was auch immer das ist. Grillmöbel ist asoziales Medium, wo es soziales Medium wäre, wenn Leute sehen würden, dass soziale Medien eigentlich asoziale Medien sind. Für diejenigen, die jetzt gleich wieder
-empört sind, dass hier ein Witz von diesem Känguru-Typen *gestohlen* wurde, folgende Parabel (Wort evtl. falsch eingesetzt): <br>
-Wie viele Menschen braucht es, um sich ein Wortspiel auszudenken? Eigentlich nur einen, aber es machen trotzdem mindestens zwei dasselbe.<br>
+vor allem Snapchat, was auch immer das ist. Wer Grillmöbel besser verstehen möchte, dem\_der sei unter "Themen" die Textsammlung ["Grillmöbel verstehen"](https://grillmoebel.github.io/gril/) empfohlen. Darüber hinaus ist Grillmöbel vor allem asoziales Medium, wo es soziales Medium wäre, wenn Leute sehen würden, dass soziale Medien eigentlich asoziale Medien sind.
+Für diejenigen, die jetzt gleich wieder empört sind, dass hier ein Witz von diesem Känguru-Typen *gestohlen* wurde, folgende Parabel (Wort evtl. falsch eingesetzt): <br>
+Wie viele Menschen braucht es, um sich ein Wortspiel auszudenken? Eigentlich nur einen, aber es machen trotzdem immer mindestens zwei dasselbe.<br>
 So ist es auch hier. Genauso wie Ronnie James Dio und John5 mit Riffs berühmt geworden sind, die ich ebenfalls geschrieben habe (allerdings Jahre später und ohne die "Originale" zu kennen). Schon interessant. 
 Zwei Menschen machen das gleiche, aber die einen scheffeln Kohle damit und die andern nicht. Überhaupt, diese Begriffe: Original, Urheber, Klassiker etc. Alles Unfug. Seit Menschen denken können, werden sie 
 Gleiches und Ähnliches gedacht haben. Dass die einen es in die Geschichte geschafft haben, während die andern *lieber* sich bescheiden aus der Weltkultur herausgehalten haben, hatte wahrscheinlich meistens Klassenhintergründe
