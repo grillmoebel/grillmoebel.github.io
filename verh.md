@@ -29,3 +29,5 @@ title: (allzeit berechtigte) Verhöhnung von Glaubensinhalten
 ---
 
 ## 2018
+
+* [Ich habe keine blassen Schimmer, was Reddit ist und ich arbeite mit allen Mitteln daran, dass das so bleibt](https://grillmoebel.github.io/2018/02/24/fiftyninth-post/)
