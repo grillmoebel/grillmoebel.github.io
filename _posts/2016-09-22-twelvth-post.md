@@ -3,7 +3,6 @@ layout: post
 title: bringin‘ a snake to a date is like bringin‘ a bike to a déja vu
 date: 2016-09-22
 ---
-
 *Beim Verlassen des milliardenschweren Supermarkts.*
 <br><br>
 Angestellte 1 *(hinterhältig)*: „Haben Sie dieses Glas Oliven bezahlt?“
@@ -120,7 +119,7 @@ die Bullen *(nicken zustimmend)*
 <br>
 Angestellte 1 *(zornig)*: „Ja, das kriegen wir schon hin. Dann müssen Sie eben...“
 <br>
-Bullin *(unterbricht)*: „Moment, haben Sie gesagt <Ausweis einbehalten>? Das dürfen Sie doch garnicht.“
+Bullin *(unterbricht)*: „Moment, haben Sie gesagt Ausweis einbehalten? Das dürfen Sie doch garnicht.“
 <br>
 Angestellte 1 und 2 *(erwischt, im Wechsel)*: „Äh… nein, natürlich nicht, aber es gibt jetzt so ein neues Prozedere… äh...“
 <br>
@@ -150,7 +149,7 @@ der Ladendieb: „Natürlich, hat man doch heute schon gesehen, wie wichtig Bele
 <br>
 Bulle: „Nein, Sie müssen nochmal ins Büro. Da kriegen Sie noch einen Beleg, dass Sie das bezahlt haben, sonst könnten die irgendwann ankommen und sagen, Sie hätten die 75 Euro nicht gezahlt!“
 <br>
-der Ladendieb: „Ok stimmt, das ist natürlich wichtig dann!“
+der Ladendieb: „Ok, das ist natürlich wichtig dann!“
 <br><br>
 *Zum dritten Mal schiebt sich die Prozession durch die engen Regalgänge.*
 <br><br>
@@ -215,4 +214,5 @@ die junge Frau *(ernst)*: „Ja Ihnen auch und danke für alles!“
 <br>
 Die Ladendiebin bricht das Hausverbot noch unter den Augen der Bullen und kauft sich ein Brot in der supermarkteigenen Bäckerei.
 <br>
-Das Baby *(lacht)*
+Das Baby *(lacht)*-
+
