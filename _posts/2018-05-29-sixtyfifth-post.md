@@ -40,4 +40,7 @@ nichtautofahrender Personen zB auch ein aktives Zurücknehmen der von der domina
 die wenigsten Autoleute begeben. Und so schütteln wir alle weiterhin kollektiv unsere Köpfe über die "Fahrrad-Rambos" (BILD), als stolze Bürger\_innen der Automobilrepublik Deutschland.<br>
 <br><br><br>
 Nachtrag zum Nachtrag: Auch massenpsychologisch untersuchungswürdig wäre zB die Manifestation von sexistischen Rollenklischees im Straßenverkehr. Ich reiße das jetzt aber nur an, um damit zu prahlen, dass 
-ich dieses Thema innerhalb meiner universellen Kritik natürlich auch auf dem Schirm habe.
+ich dieses Thema innerhalb meiner universellen Kritik natürlich auch auf dem Schirm habe.<br><br><br><br>
+<br><br><br><br>
+\* Lese: "auto-gerecht", als käme es von griech.
+αυτός, dann sind wir bei selbstgerecht, was viel besser passt, ha!
