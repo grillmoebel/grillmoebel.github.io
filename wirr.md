@@ -58,3 +58,5 @@ title: der Rest ist Wirrsal
 * [Mut zur Nacht revisited](https://grillmoebel.github.io/2018/01/22/fiftythird-post/)
 * [Fliegende Menschen aus Ungarn](https://grillmoebel.github.io/2018/01/24/fiftyfourth-post/)
 * [Versuch über die Schweiz](https://grillmoebel.github.io/2018/01/29/fiftysixth-post/)
+* [Versuch über das Wetter](https://grillmoebel.github.io/2018/04/02/sixtieth-post/)
+* [Die Idee zum schnellen Geld - Alte Posts im neuen Gewand](https://grillmoebel.github.io/2018/06/03/sixtyeighth-post/)
