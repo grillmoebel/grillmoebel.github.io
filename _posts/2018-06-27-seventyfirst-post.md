@@ -16,7 +16,7 @@ Nie hatte ich mich einem guten Argument entzogen, auch diesmal nicht. Ich setzte
 2. Geld macht zwar nicht glücklich, dennoch gibt es einen Umkehrschluss der Tatsache, dass Armut krank macht, von dem diese Menschen enorm profitieren<br>
 3. Die Ambivalenz der Promi-Erfahrung wird in einer Gesellschaft, die alles, aber auch alles an eigenen Glücksvorstellungen auf das Leben von reichen Selbstdarstellerarschlöchern projizieren will, 
 für diejenigen, die da angebetet werden, bis hin zur Nichterfahrung verschleiert. Das Argument wäre nur eines in einer Gesellschaft ohne diesen Anerkennungsüberschuss, getreu der 
-widerlichen Maxime "Der Erfolg gibt ihnen recht".<br>
+widerlichen Maxime "Der Erfolg gibt ihnen recht".<br><br>
 Darüber hinaus wurde mir zugetragen, diesmal von außerhalb, dass der Begriff des Selbst, der sich in meiner favorisierten Beschreibung reicher Selbstdarstellerarschlöcher als reicher Selbstdarstellerarschlöcher
 zweifellos findet, mitnichten geeignet ist, diese Hüllen von Menschen zu beschreiben, deren Entmenschtheit darin wurzelt, dass irgendwas, seis Kulturindustrie oder Markt, sie gänzlich durchdrungen
 und eben nur eine Hülle hinterlassen hat. Man betrachte zum Beispiel diesen Kasper, mit dem die -eigentlich irgendwo ernstzunehmenden- Queen gerade auf Welttournee sind. Adam Lambert heißt der,
