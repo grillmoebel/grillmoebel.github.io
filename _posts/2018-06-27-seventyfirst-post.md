@@ -26,7 +26,7 @@ die Rolle eines echten Menschen (Freddie Mercury). Funktionieren wird das ganze 
 Genau.<br>
 Und so hat es ein weiterer Volldepp geschafft und kann sich mächtig fühlen auf der Bühne, weil er Lieder nachsingt, mit denen er nun wirklich nichts zu tun hat.<br>
 Doch um zurück zum Fußball zu kommen, hier zeigt der Mainstream durchaus auch Humor: Nicht nur, dass, sobald "die Mannschaft" (fantastischer Brand übrigens) mal nicht so spielt wie sie soll, die "Loyalität 
-der Fans" sofort in Hass und Rassismus umschlägt ("nicht richtig deutsch" etc), oder die [übliche](https://grillmoebel.github.io/2016/07/07/third-post/) Stilisierung als Opfer des Schicksals ("Dieses Tor hätte alles verändert", es ist nur leider nicht gefallen); 
+der Fans" sofort in Hass und Rassismus umschlägt ("nicht richtig deutsch" etc), oder die [übliche](https://grillmoebel.github.io/2016/07/07/third-post/) Stilisierung als Opfer des Schicksals ("Dieses Tor hätte alles verändert", es ist nur trotzdem nicht gefallen); 
 nein, nach dem Vorrundenaus, über das ich mich sehr freue, "schließt Joachim Löw" Konsequenzen "nicht aus" (GMX News), nämlich:
 den *Rücktritt*, ein Wort, das genau wie seinerzeit beim (deutschen!) Papst, die Verhältnisse klarstellen soll, dass nämlich die Deutschen, egal in welchem Ressort, nichts lieber tun, als sich unterzuordnen.
 Ist die historische SPD daran schuld? Vielleicht.
