@@ -95,3 +95,5 @@ title: Zerwürfnisse der Gesellschaft
 * [Was, wenn sich irgendwann herausstellt, dass Danger Dan wirklich gefährlich ist?](https://grillmoebel.github.io/2018/05/29/sixtyseventh-post/)
 * [DB-Episode No. 10000](https://grillmoebel.github.io/2018/06/03/sixtyninth-post/)
 * [Wussten Sie denn nicht, dass Frankfurt am Main einen Kopfbahnhof hat? Sie Opfer.](https://grillmoebel.github.io/2018/06/07/seventieth-post/)
+* [Konferenz der Tiere - gefördert durch die Aktion Mensch](https://grillmoebel.github.io/2018/06/27/seventyfirst-post/)
+* [Kauf kein Auto, Arschloch](https://grillmoebel.github.io/2018/08/01/seventyfourth-post/)

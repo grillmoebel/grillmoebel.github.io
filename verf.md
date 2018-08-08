@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grillmöbel Verfassungsschutz-Service
+title: Grillmöbel Verfassungsschutz-Service (Thema eingestellt)
 ---
 
 ## 2014
@@ -37,3 +37,5 @@ title: Grillmöbel Verfassungsschutz-Service
 ---
 
 ## 2018
+
+* [Der Grillmöbel-Verfassungsschutz-Service - ein Portrait](https://grillmoebel.github.io/2018/07/03/seventysecond-post/)
