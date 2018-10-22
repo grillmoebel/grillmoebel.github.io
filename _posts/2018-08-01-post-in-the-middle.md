@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Der Fahrradladen Ihres Vertrauens ist ein Trottel
-date: 2018-10-22 08:37:00
+title: Gedanken zur Extremwetterlage (August 2018)
+date: 2018-08-01 08:38:00
 ---
 
 Hier nun also die Wetterpolemik, die niemand sonst abdrucken wollte. Viel Spaß!
