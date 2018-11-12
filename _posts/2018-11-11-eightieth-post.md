@@ -1,0 +1,18 @@
+---
+layout: post
+title: Wer ist eigentlich dieser Nextbike	
+date: 2018-11-11 08:37:00
+---
+
+Nun wurde also wieder der Lieblingsfeiertag *der Deutschen* begangen, so wie man ein Verbrechen begeht – insofern eine passende Wortwahl – und <del>alle Welt </del>Großdeutschland feiert das Ende des Krieges. Nicht so sehr den Matrosenaufstand, der der Ausrufung der Republik, die auch gefeiert werden darf, solange die des Antikommunisten Scheidemann gemeint ist und nicht die des kaltblütig ermordeten Idealisten Liebknecht. Also: Die Ausrufung einer Republik, deren Scheitern ebensolche Leute wie ihr Ausrufer ihr zeitgleich mit in die Wiege legten, ja, bitte feiern, aber nicht die Entwicklungen, die zu ihr führten. *Die Deutschen* selektieren gerne, das haben sie oft genug gezeigt, und so picken sie sich aus dem unübersichtlichen Sammelsurium an Ereignissen, die am und um den 9. November stattfanden, heraus, was sich gut anhört: Republik, Demokratie, Ende des Krieges und natürlich *Einheit*. Den Hitler-Ludendorff-Putsch erlebt man hierzulande immer noch als Niederlage und feiert ihn somit nicht. Der von einem Linksradikalen gegründete Freistaat Bayern hat leider keine andere Wahl als diesem zu gedenken, insistiert aber trotzig wie ein Kindergartenkind: „Links- wie rechtsradikale Kräfte verüben Gräueltaten“, und zwar vor allem Links-, deswegen steht es an erster Stelle, außerdem „verüben“, nicht „verübten“, was man alles durchaus als Schablone für die gesamte deutsche Geschichte lesen soll. Denn Linke müssen eben, so war es immer und so wird es immer bleiben, alle Umstürze, Aufstände und Revolutionen völlig gewaltfrei durchführen, ansonsten ist das ja Gewalt und Gewalt ist schlecht und dann müssen schonmal die Freikorps zum Aufräumen vorbeikommen. Wie es wirklich war, kann man bei [Sebastian Haffner](https://de.wikipedia.org/wiki/Der_Verrat) oder, etwas literarischer, [Oskar Maria Graf](https://ixquick-proxy.com/do/spg/show_picture.pl?l=deutsch&rais=1&oiu=https%3A%2F%2Fi0.wp.com%2Fmuenchner-feuilleton.de%2Fwp-content%2Fuploads%2Fgraf.jpg%3Fresize%3D396%252C500%26amp%3Bssl%3D1&sp=a9913132dd8b70956777bb426f3bd27f) und vielen anderen nachlesen, bitte nicht bei Systemmedien. <br>
+Zurück zum 9. November. Mögen dies auch alles nette Gelegenheiten zur staatlichen Geschichtsverdrehung sein, können *die Deutschen* nun seit 29 Jahren aufatmen, denn nichts macht einen größeren Deckel auf all die historische Gewordenheit in ihrer Ambivalenz als das wieder vereinigte Deutschland (obwohl große Teile Preußens fehlen). Hier haben wir es: eine friedliche Revolution, alles völlig gewaltfrei und das, wo doch eine *Diktatur reinsten Wassers* üblicherweise nicht einfach fällt, erst recht nicht ohne Kampf. Hier aber eben doch, und dass die DDR es vermag, einerseits „schlimmer als die Nazis“ (Zitat zahlreiche Deutsche) sein zu können und gleichzeitig sich friedlich und ohne menschliche Opfer von Westdeutschland übernehmen zu lassen, das muss man *den Deutschen* erst einmal nachmachen.<br>
+War noch was?
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Nachtrag:<br>
+In Berlin gab es dieses Jahr einen Eklat, der die ausgelassene Stimmung am 9. November zu trüben drohte: Der amtierende Innensenator ließ eine Demonstration verbieten! Und das am 9. November, einem Tag, der doch wie kein anderer symbolisch für unsere demokratischen Werte steht, wie zum Beispiel Meinungsfreiheit! Zum Glück kippte ein Gericht das Verbot schnell und die Nazis, die nun einmal zu Deutschland gehören, konnten der Mauertoten gedenken. Welches Nachspiel der peinliche Alleingang für den Innensenator hat, steht noch nicht fest.
