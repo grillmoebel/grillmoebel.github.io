@@ -15,3 +15,4 @@ title: GM verkürzt
 
 * [Mehr als 4,5 Millionen Kg haben erfolgreiche BodyChanger bereits abgenommen](https://grillmoebel.github.io/2018/01/13/fiftysecond-post/)
 * [Mut zur Lücke zwischen Zug und Bahnsteigkante](https://grillmoebel.github.io/2018/08/08/seventyfifth-post/)
+* [niemals ein Grund zum Feiern](https://grillmoebel.github.io/2018/10/03/seventyeighth-post/)

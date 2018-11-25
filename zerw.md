@@ -97,3 +97,6 @@ title: Zerwürfnisse der Gesellschaft
 * [Wussten Sie denn nicht, dass Frankfurt am Main einen Kopfbahnhof hat? Sie Opfer.](https://grillmoebel.github.io/2018/06/07/seventieth-post/)
 * [Konferenz der Tiere - gefördert durch die Aktion Mensch](https://grillmoebel.github.io/2018/06/27/seventyfirst-post/)
 * [Kauf kein Auto, Arschloch](https://grillmoebel.github.io/2018/08/01/seventyfourth-post/)
+* [Gedanken zur Extremwetterlage (August 2018)](https://grillmoebel.github.io/2018/08/01/post-in-the-middle/)
+* [more of the same, please](https://grillmoebel.github.io/2018/08/29/seventyseventh-post/)
+* [Wer ist eigentlich dieser Nextbike](https://grillmoebel.github.io/2018/11/11/eightieth-post/)
