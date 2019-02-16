@@ -53,3 +53,13 @@ title: Musiknerdtum
 ## 2018
 
 * [ich füge Speisen Honig hinzu, um Veganer zu ärgern](https://grillmoebel.github.io/2018/01/03/fiftieth-post/)
+
+---
+
+## 2019
+
+* [Oh nein, wieder ein Jahr (1)](https://grillmoebel.github.io/2019/01/06/eightythird-post/)
+* [Über einen Monat ohne Post, ach du liebe Zeit (2)](https://grillmoebel.github.io/2019/01/06/eightyfourth-post/)
+* [fandom of the opera (3)](https://grillmoebel.github.io/2019/01/08/eightyfifth-post/)
+
+

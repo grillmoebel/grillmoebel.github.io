@@ -100,3 +100,11 @@ title: Zerwürfnisse der Gesellschaft
 * [Gedanken zur Extremwetterlage (August 2018)](https://grillmoebel.github.io/2018/08/01/post-in-the-middle/)
 * [more of the same, please](https://grillmoebel.github.io/2018/08/29/seventyseventh-post/)
 * [Wer ist eigentlich dieser Nextbike](https://grillmoebel.github.io/2018/11/11/eightieth-post/)
+* [Der Fasan fällt](https://grillmoebel.github.io/2018/11/30/eightysecond-post/)
+
+---
+
+## 2019
+
+* [fandom of the opera (3)](https://grillmoebel.github.io/2019/01/08/eightyfifth-post/)
+* [Was weiß J-Lo schon vom Leben (4)](https://grillmoebel.github.io/2019/01/16/eightyseventh-post/)
