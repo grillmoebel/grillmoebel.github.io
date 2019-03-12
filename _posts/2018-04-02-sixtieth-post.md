@@ -15,7 +15,6 @@ Es ist wirklich kein Wunder, dass der Eindruck ensteht, alle seien immer unzufri
 Die Klimaerwärmung trägt das ihre dazu bei, doch um die soll es hier nicht gehen, hier geht es schließlich ums Wetter. Um das Wetter, über das man redet, über das man parliert, sich gut unterhält. Dadurch, dass das Wetter an verschiedenen Orten unterschiedlich *ist*, ergeben sich für Gespräche über weitere Entfernungen Myriaden von zu erörternden Wetterunterschieden. „Heute waren es 10 Grad und wechselhaft?“ - „Nein, bei uns war es eher 8 Grad und nur manchmal wechselhaft! Dazu eine laue Brise!“ - „Nein, mach Sachen!“<br>
 So oder so ähnlich kann man sich über das Wetter unterhalten. Muss man aber auch nicht. So können dank des Wetters alle tun und lassen, was sie möchten. Es sei denn, es regnet.<br>
 Das Wetter, so muss ich noch abschließend anschließen, ist, wie die medizinische Forschung oder die Herstellung von Youtube-Schleim, natürlich auch ein Milliardengeschäft. Allein die Dunkelziffer an verkauften T-Shirts mit lustigen Aphorismen über das Wetter ist kaum zu ermessen (wie jede andere Dunkelziffer übrigens auch). Dazu kommen die Tantiemen von „ain‘t no sunshine“ und „singing in the rain“, die ganzen Wettshops, wo Wetterwetten abgeschlossen werden können (von wechselhaft bis Sintflut – alles ist möglich, alles hat *odds*) und natürlich der ganze Tourismus für die Wetterflüchtlinge, die übrigens weitaus angesehener sind als Wirtschaftsflüchtlinge. Das Wetter ist eben immer ein guter Grund, mit dem alle d‘accord gehen können.<br>
-Und jetzt das Wetter.
 <br>
 <br>
 <br>
