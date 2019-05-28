@@ -66,3 +66,6 @@ title: der Rest ist Wirrsal
 ## 2019
 
 * [Gelb ist die Hoffnung](https://grillmoebel.github.io/2019/01/13/eightysixth-post/)
+* [Der Fahrradladen deines Vertrauens ist ein Trottel](https://grillmoebel.github.io/2019/03/10/ninetyfirst-post/)
+* [ein sharknadoähnlicher...](https://grillmoebel.github.io/2019/03/14/ninetysecond-post/)
+* [... Meteoritensturm](https://grillmoebel.github.io/2019/03/20/ninetyfourth-post/)

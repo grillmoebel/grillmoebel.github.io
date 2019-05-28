@@ -61,5 +61,8 @@ title: Musiknerdtum
 * [Oh nein, wieder ein Jahr (1)](https://grillmoebel.github.io/2019/01/06/eightythird-post/)
 * [Über einen Monat ohne Post, ach du liebe Zeit (2)](https://grillmoebel.github.io/2019/01/06/eightyfourth-post/)
 * [fandom of the opera (3)](https://grillmoebel.github.io/2019/01/08/eightyfifth-post/)
+* [Ich habe ... wie heißt es noch gleich ... ... Wortfindungsschwierigkeiten!](https://grillmoebel.github.io/2019/04/16/ninetyfifth-post/)
+* [Ich hab genug von den Worten, die ich sag](https://grillmoebel.github.io/2019/04/20/ninetysixth-post/)
+* [The South is too fat to rise again](https://grillmoebel.github.io/2019/04/21/ninetyseventh-post/)
 
 

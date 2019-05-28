@@ -28,3 +28,9 @@ title: Nichtprosa
 ## 2018
 
 * [Ende des Films](https://grillmoebel.github.io/2018/05/12/sixtythird-post/)
+
+---
+
+## 2019
+
+* [hat nix mit der Europawahl zu tun](https://grillmoebel.github.io/2019/05/27/ninetyeighth-post/)

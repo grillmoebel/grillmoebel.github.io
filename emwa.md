@@ -53,3 +53,11 @@ title: Empfehlungen/Warnungen (Musik ausgenommen)
 * [Versuch über die Schweiz](https://grillmoebel.github.io/2018/01/29/fiftysixth-post/)
 * [J. Volldepp lässt grüßen](https://grillmoebel.github.io/2018/04/20/sixtyfirst-post/)
 * [Raubüberfall mit Kettensäge - Täter brauchen noch nicht mal die Beute](https://grillmoebel.github.io/2018/10/22/seventyninth-post/)
+
+---
+
+## 2019
+
+* [Der Fahrradladen deines Vertrauens ist ein Trottel](https://grillmoebel.github.io/2019/03/10/ninetyfirst-post/)
+* [ein sharknadoähnlicher...](https://grillmoebel.github.io/2019/03/14/ninetysecond-post/)
+* [... Meteoritensturm](https://grillmoebel.github.io/2019/03/20/ninetyfourth-post/)
