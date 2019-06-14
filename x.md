@@ -27,3 +27,4 @@ title: X' Erlebnisse im Land des Schreckens
 ## 2019
 
 * [Man kann Kanalisation nicht ohne Lisa buchstabieren!](https://grillmoebel.github.io/2019/01/18/eightyeighth-post/)
+* [for the laugh of god](https://grillmoebel.github.io/2019/06/13/ninetyninth-post/)
