@@ -10,5 +10,5 @@ Da es ja Sitte geworden ist, dass die großen Konzerne und Startups permanent un
 „Wohin soll‘s gehen?“ (72 and sunny) – Geht dich n Scheißdreck an.<br>
 „Wann entdeckst auch du MyBlu?“ (DAS KARTELL) – Wenn die Hölle zufriert.<br><br>
 
-Und als Grillmöbel-Spezial-Service noch eine Antwort auf eine Frage aus der Politik:
+Und als Grillmöbel-Spezial-Service noch eine Antwort auf eine Frage aus der Politik:<br>
 „Löst Trump den Nahostkonflikt?“ (GMX News) - Nein.
