@@ -6,9 +6,13 @@ date: 2019-06-23 08:37:00
 
 Da es ja Sitte geworden ist, dass die großen Konzerne und Startups permanent und ungefragt Appelle an uns richten, habe ich mir erlaubt, auf einige der unangenehmsten einfach zu antworten. Denn wenn man gefragt wird, kann man ja ruhig auch eine Antwort geben. Oder? <br><br><br>
 
-„Alles Müller, oder was?“ (MAD Werbeagentur) – Ich denke nicht.<br>
-„Wohin soll‘s gehen?“ (72 and sunny) – Geht dich n Scheißdreck an.<br>
-„Wann entdeckst auch du MyBlu?“ (DAS KARTELL) – Wenn die Hölle zufriert.<br><br>
+MAD Werbeagentur: „Alles Müller, oder was?“<br>
+Grillmöbel: Ich denke nicht.<br><br>
+72 and sunny: „Wohin soll‘s gehen?“<br>
+Grillmöbel: Geht dich n Scheißdreck an.<br><br>
+DAS KARTELL: „Wann entdeckst auch du MyBlu?“ <br> 
+Grillmöbel: Schätze mal wenn die Hölle zufriert.<br><br>
 
 Und als Grillmöbel-Spezial-Service noch eine Antwort auf eine Frage aus der Politik:<br>
-„Löst Trump den Nahostkonflikt?“ (GMX News) - Nein.
+GMX News: „Löst Trump den Nahostkonflikt?“ <br>
+Grillmöbel: Nein.
