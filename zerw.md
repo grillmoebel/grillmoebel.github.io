@@ -111,3 +111,6 @@ title: Zerwürfnisse der Gesellschaft
 * [die restlichen Nudeln](https://grillmoebel.github.io/2019/03/07/eightyninth-post/)
 * [Vorschlag von Grillmöbel zum Frauentag](https://grillmoebel.github.io/2019/03/08/ninetieth-post/)
 * [wie bauchfrei nur falschrum](https://grillmoebel.github.io/2019/03/16/ninetythird-post/)
+* [Bring den Eisbären zurück, wo er hingehört, Arschloch](https://grillmoebel.github.io/2019/07/13/third-post/)
+* [SelberManufaktur](https://grillmoebel.github.io/2019/07/14/fourth-post/)
+* [Neues vom Nudeltier](https://grillmoebel.github.io/2019/08/19/fifth-post/)

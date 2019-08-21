@@ -69,3 +69,5 @@ title: der Rest ist Wirrsal
 * [Der Fahrradladen deines Vertrauens ist ein Trottel](https://grillmoebel.github.io/2019/03/10/ninetyfirst-post/)
 * [ein sharknadoähnlicher...](https://grillmoebel.github.io/2019/03/14/ninetysecond-post/)
 * [... Meteoritensturm](https://grillmoebel.github.io/2019/03/20/ninetyfourth-post/)
+* [Kannst nicht kuscheln, nie gelernt (Rachut)](https://grillmoebel.github.io/2019/06/20/second-one-hundredth-post/)
+* [sehen Sie echte Sturmschäden](https://grillmoebel.github.io/2019/06/21/lets-say-first-post-once-again/)

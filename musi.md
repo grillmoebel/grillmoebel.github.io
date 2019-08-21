@@ -64,5 +64,6 @@ title: Musiknerdtum
 * [Ich habe ... wie heißt es noch gleich ... ... Wortfindungsschwierigkeiten!](https://grillmoebel.github.io/2019/04/16/ninetyfifth-post/)
 * [Ich hab genug von den Worten, die ich sag](https://grillmoebel.github.io/2019/04/20/ninetysixth-post/)
 * [The South is too fat to rise again](https://grillmoebel.github.io/2019/04/21/ninetyseventh-post/)
+* [fight for my laugh](https://grillmoebel.github.io/2019/06/22/third-post/)
 
 
