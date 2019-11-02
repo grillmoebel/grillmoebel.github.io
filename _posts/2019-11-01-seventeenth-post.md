@@ -35,7 +35,7 @@ dvH: „Doch, das tue ich, denn ich bin es ja wirklich.
 <br><br>
 Ich: „Ach ja? Beweisen Sie es.“
 <br><br>
-Er nahm ein neumodisches Telefon aus der Tasche und zeigte mir ein Bild von seinem Twitteraccount @therealadolfhitler.
+Er nahm ein neumodisches Telefon aus der Tasche und zeigte mir ein Bild von seinem Twitteraccount *@therealadolfhitler*.
 <br><br>
 Ich: „Gehen Sie. Sofort!“
 <br><br>
