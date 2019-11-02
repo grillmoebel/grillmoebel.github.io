@@ -57,4 +57,4 @@ Ich: „Ha, ein guter Versuch! Aber Hitler ist seit 1945 tot. Sie können demnac
 Daraufhin verließ der vermeintliche Hitler verärgert meinen Laden. Zum Glück kam er nie wieder.
 <br><br>
 Am nächsten Morgen staunte ich nicht schlecht:<br><br>
-![Artikel](/images/unbenannt.png)
+![Artikel](/images/Unbenannt.png)
