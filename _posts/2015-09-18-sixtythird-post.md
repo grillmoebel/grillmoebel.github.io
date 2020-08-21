@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wer Latein kann, ist (wie immer) im Vorteil
+title: Fiktives Frischeltern-Journal III - Platz
 date: 2015-09-18 08:37:00
 ---
 
