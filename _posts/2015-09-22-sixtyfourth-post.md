@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We are worse than animals, we hunger for the kill (L. Kilmister)
+title: Fiktives Frischeltern-Journal IV - Patriarchat
 date: 2015-09-22 08:37:00
 ---
 
