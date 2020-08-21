@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Lance Armstrong hat jeden besiegt, aber nicht die Wahrheit (Zitiert nach einem tatsächlich existierenden Filmplakat)
+title: Fiktives Frischeltern-Journal VII - Außenwelt
 date: 2015-10-11 08:37:00
 ---
  
