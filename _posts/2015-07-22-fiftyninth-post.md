@@ -16,4 +16,4 @@ Brian Cox sagt *trillions* oder redet über das *Very Large Telescope* in Chile:
 Brian Cox bringt eine krude Analogie: Ein Schluck Wodka<br>
 Brian Cox bringt eine gute Analogie: Ein Schluck Wodka<br>
 Brian Cox sagt *Yeibichai*, *for fuck's sake* oder streichelt ein gefährliches Raubtier: [Romanee-Conti 1945](https://www.weinankauf-online.com/teuerste-weine-welt/)<br><br>
-Viel Spaß den 2 Nerds, die das Spiel tatsächlich ausprobieren.
+Getestet (ernsthaft) von Grillmöbel. Viel Spaß den 2 Nerds, die das Spiel tatsächlich ausprobieren. 
