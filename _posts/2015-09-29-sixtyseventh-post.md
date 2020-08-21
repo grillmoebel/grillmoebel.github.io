@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ein schmutziges Gedicht - doch nicht!
+title: Fiktives Frischeltern-Journal V - Nächtliches
 date: 2015-09-29 08:37:00
 ---
 
@@ -10,5 +10,5 @@ Irgendwo am [Ende der Welt](http://grillmoebel.github.io/2015/03/14/fourtieth-po
 Einige der neugewonnenen Traumerfahrungen illustrieren wohl Urängste jedes Menschen, dem ein Kind zugefallen ist und sind so schauerlich, dass ich mich hier selbst zensieren muss. Vielleicht ist auch [Lautréamont](https://de.wikipedia.org/wiki/Comte_de_Lautr%C3%A9amont) daran schuld.
 Dann aber auch Träume vom Knutschen mit einer Person, die kein Teil der üblichen und naheliegenden Knutschgruppe ist. Merkwürdig, aber das lasse ich mir gefallen.<br><br>
 Letzte Nacht wieder ein Knutschtraum, diesmal mit einer der Bezugspersonen, was schon deutlich naheliegender ist, da man sich im Wochenbett quasi 24/7 sieht. Gehirn, du fantasielose Traumfabrik! Trotzdem schön, zumal er folgender Szene vorherging, die den Vorwurf der Fantasielosigkeit gleich wieder zunichte macht:<br>
- Ich befinde mich in einem feudal eingerichteten Salon, etwa britisches Herrenhaus. Eine mir nahestehende Person und ihr Partner liegen auf Liegen und essen Essen, das ich permanent neu zubereite. Eine\_r von von beiden sagt zu mir: „Und vergiss nicht, etwas Leckeres aus den Stangenbohnen zu machen!“. Ein Blick in die Richtung, die mir angedeutet wird, offenbart mir etwa 8 riesenhafte Grashüpfer und mein Traum-Ich kapiert sofort, dass in diesem Traum mit „Stangenbohne“ „Grashüpfer“ bezeichnet werden. Warum nicht, denke ich und [koche etwas Leckeres](https://www.youtube.com/watch?v=pK-Pgkm3Efc) daraus. Es ist braun und schmeckt allen ausgezeichnet.<br><br>
+ Ich befinde mich in einem feudal eingerichteten Salon, etwa britisches Herrenhaus. Eine mir nahestehende Person und ihr Partner liegen auf Liegen und essen Essen, das ich permanent neu zubereite. Eine\_r von von beiden sagt zu mir: „Und vergiss nicht, etwas Leckeres aus den Stangenbohnen zu machen!“. Ein Blick in die Richtung, die mir angedeutet wird, offenbart mir etwa 8 riesenhafte Grashüpfer und mein Traum-Ich kapiert sofort, dass in diesem Traum mit „Stangenbohne“ „Grashüpfer“ bezeichnet werden. Warum nicht, denke ich und [koche etwas Leckeres](https://www.youtube.com/watch?v=dvf3CwhIu7E) daraus. Es ist braun und schmeckt allen ausgezeichnet.<br><br>
 Was ich damit sagen will: Träume sind Fenster zur Seele und bedeuten sehr viel.
