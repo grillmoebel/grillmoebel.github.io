@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Irgendwann heißen die Menschen immer Kunibert
+title: Fiktives Frischeltern-Journal I - Baulärm
 date: 2015-09-03 08:37:00
 ---
 
