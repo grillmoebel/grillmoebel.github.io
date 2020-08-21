@@ -6,7 +6,7 @@ date: 2015-07-22 08:37:00
 
 
 
-Man wähle eine beliebige Episode einer [Brian Cox](http://atlas.ch/news/2009/sexiest-physicist.html)-zentrierten Serie aus und befolge konsequent diese wenigen Regeln:
+Man wähle eine beliebige Episode einer [Brian Cox](https://www.pinterest.de/artiguesb/sexy-brian-cox/)-zentrierten Serie aus und befolge konsequent diese wenigen Regeln:
 <br><br>
 Brian Cox sagt *civilisation*, *alien*, *telescope* oder *billion(s)*: ein kleiner Schluck Bier <br>
 Brian Cox sagt *remote*, *isolated*, *pattern*, *responsibility*, *ancient*, *significant*, *vast*, *hope* (Substantiv), *constant* (Adjektiv) oder *millions*: ein ordentlicher Schluck Bier<br>
@@ -15,5 +15,5 @@ Brian Cox sagt *basic structure*, *basic building blocks*, *what it means to be 
 Brian Cox sagt *trillions* oder redet über das *Very Large Telescope* in Chile: ein komplettes Gläschen Likör auf Ex<br>
 Brian Cox bringt eine krude Analogie: Ein Schluck Wodka<br>
 Brian Cox bringt eine gute Analogie: Ein Schluck Wodka<br>
-Brian Cox sagt *Yeibichai*, *for fuck's sake* oder streichelt ein gefährliches Raubtier: [Château Margaux 2009](http://www.luxusblogger.de/2014/01/05/die-teuerste-flasche-wein-der-welt-15722.html) (aus der Balthazar-Flasche)<br><br>
+Brian Cox sagt *Yeibichai*, *for fuck's sake* oder streichelt ein gefährliches Raubtier: [Romanee-Conti 1945](https://www.weinankauf-online.com/teuerste-weine-welt/)<br><br>
 Viel Spaß den 2 Nerds, die das Spiel tatsächlich ausprobieren.
