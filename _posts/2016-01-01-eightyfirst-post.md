@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Momentaufnahmen eines Mudiknerds IV - ???
+title: Momentaufnahmen eines Mudiknerds IV - ??? - Lemmy R.I.P. 1
 date: 2016-01-01 08:37:00
 ---
 
