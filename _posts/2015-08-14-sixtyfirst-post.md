@@ -4,23 +4,7 @@ title: Ist das Leben geprägt von Wirrsal, so sind auch die Blogeinträge geprä
 date: 2015-08-14 08:37:00
 ---
 
-
-Immer, wenn ich lese "mit einer Zuckerart", hoffe ich, dass danach dann da steht: "nämlich Rübenzucker. Ha!"<br>
-Ist das nicht der Unterschied zwischen Zivilisation und Barbarei?<br><br>
-Außerdem sollte sich Mixery vielleicht reklametechnisch an Mathenerds wenden:<br>
-Mixery = Bier + Cola + x <=><br>
-x = Mixery - Bier - Cola <=><br>
-x = Sägespäne/Süßholzwurzelextrakt/mehr Bier, was auch immer man da eben glauben möchte.<br><br>
-ein gutes Wort: knirschberechtigt<br>
-eine schlechte Filmidee: The Big Lebowski 2 - Down Under<br>
-Es folgen zum Abschluss (des Wirrsals) zwei Dialoge. Zunächst ein kurzer:<br><br>
-
-Baby: "Räbääh, Räbääh! Wääh!" (frei nach E.Fuchs)<br>
-Bezugsperson: "Keine Angst, ich bin da." (Pause) "Ich bin im Grunde wie Gott, nur dass ich wirklich da bin"<br>
-Baby (ist zufrieden und daher still)<br>
-Bezugsperson (lacht über den großartigen Witz)<br><br>
-
-Nun ein längerer. Er möge erklären, wie es zu Jesu Auferstehung kam, oder nicht:<br><br><br>
+Dieser Post möge erklären, wie es zu Jesu Auferstehung kam, oder nicht:<br><br><br>
 
 Jesus: Was bitte war das gerade?<br><br>
 
