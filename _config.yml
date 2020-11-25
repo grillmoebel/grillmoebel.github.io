@@ -3,19 +3,24 @@ description:      Yeah, ein cooler Blog!
 url:              https://grillmoebel.github.io
 
 links:
-  - name:         Über
-    url:          /about
-  - name:         Blog
+  - name:         Analytisches
+    url:          /anal
+  - name:         Prosa
+    url:          /pro
+  - name:         Nichtprosa
+    url:          /contra
+  - name:         Musiknerdtum
+    url:          /musi
+  - name: 	      Kommentare zum Zeitgeschehen
+    url:          /zeit
+  - name: 	      wiederkehrende Rubriken
+    url:          /rubr
+  - name: 	      Fragmente
+    url:          /frag
+  - name: 	      Meta
+    url:          /gril
+  - name: 	      Blogroll
     url:          https://grillmoebel.github.io
-    external:     false
-  - name:         Beliebte Posts
-    url:          https://grillmoebel.github.io
-    external:     false
-  - name:         Kontakt
-    url:          mailto:grllmbl@systemli.org
-    external:     true
-  - name: 	  Themen
-    url:          /topics
 pygments:         false
 permalink:        pretty
 markdown:         kramdown
