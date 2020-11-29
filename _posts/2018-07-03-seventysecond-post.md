@@ -17,3 +17,14 @@ b) die Verfassungsfeindlichkeit wurde nicht ausreichend belegt<br>
 c) der Verfassungsschutz war zu beschäftigt (Aktenschreddern o.ä.) oder hat es nicht mitgekriegt<br><br>
 Während Szenario a) zwar stets in den Debatten als wahrscheinlichstes angeführt wurde, war für Kritiker offensichtlich, dass es in dieser Frage niemals Klarheit geben würde. So galt es auch als eine 
 sinnlose Geste, als entschieden wurde, den Grillmöbel-Verfassungsschutz-Service in quasi archivierter Form im Online-Angebot zu behalten. Lange hat man nichts von ihm gehört - und so wird es nun wohl auch bleiben.
+
+<br><br><br><br>
+Archiv der Hinweise:<br>
+No. 1: Die Person hinter Grillmöbel war schon beruflich im Heimatort der Amigos.<br>
+No 2: Im Grillmöbel-Bekanntenkreis befindet sich eine Person, deren Äußeres entfernt an Kim Jong-Il erinnert.<br>
+No 3: Die Person hinter Grillmöbel hat schon einmal öffentlichen Ablasshandel betrieben.<br>
+No 4: Die Person hinter Grillmöbel hat einen Erzfeind, der Grillmöbel herstellt (Zufall).<br>
+No 5: Die Person hinter Grillmöbel ist glühende\_r Verfechter\_in des Morgenthau-Plans.<br>
+No 6: Die Person hinter Grillmöbel wurde schon einmal auf der Autobahn von einer Nonne rechts überholt („Schwester Bleifuß“)<br>
+No 7: Die Person hinter Grillmöbel war schon einmal mit einem ehemaligen Manager des KaDeWe zusammen in Urlaub<br>
+No 8: Die Person hinter Grillmöbel hatte schon einmal einen leichten Muskatrausch (aus Versehen), bereut aber nichts (Gal.6, 7)

@@ -10,7 +10,5 @@ Jedenfalls, weil ich in Deutschland sozialisiert wurde oder zuviel antike Philos
 Doch eigentlich ist all das diesem politischen System schlichtweg immanent und gibt damit zwar Anlass zur Missbilligung, aber keineswegs zur Empörung; diese enthält nämlich immer auch einen Deut Überraschung, und Überraschung ist nicht angebracht, zumindest nicht darüber, dass im Kapitalismus Menschen und Unternehmen kapitalistisch handeln.<br>
 Also, zusammengefasst, ist die Fokussierung auf *Tagesgeschehen* und die Debatten, die dort geführt werden, m.E. nichts anderes als eine Alibitätigkeit, um bloß nicht in die Nähe der innersten Zerwürfnisse dieser Gesellschaft zu kommen, die dazu beiträgt, dass alles immer so weitergehen kann wie bisher. Daher: Nachrichten belächeln! Medien ignorieren! Probleme abschaffen! <br>
 (?)
-<br>
-<br>
-<br>
-Hilfreiche Info für den Verfassungsschutz No 7: Die Person hinter Grillmöbel war schon einmal mit einem ehemaligen Manager des KaDeWe zusammen in Urlaub
+
+

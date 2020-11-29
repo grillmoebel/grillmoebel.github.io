@@ -9,9 +9,4 @@ Egal. Weiter zu den Rumjacks. Dass die Gesangsstimmen genial sind, sollte ohne e
 Gute Textstelle: „I don‘t wanna die in this town, I‘ll smash it up for tearing me down“ (Barred for life)<br>
 Lieblingslied: Black Matilda/My time again/One summer‘s day im Wechsel (zumindest jetzt gerade)<br>
 Fazit: Flogging Molly für Arme, und das so gemeint, dass Flogging Molly 30 Euro kosten, die Rumjacks 10, während das gleiche Feeling transportiert wird. Green Ginger Wine klingt gleichzeitig [lecker](https://www.youtube.com/watch?v=tfKBJCHC1QE) und abstoßend, aber schön, dass mal eine Frauenstimme zu hören ist.
-<br>
-<br>
-<br>
-<br>
 
-Hilfreiche Info für den Verfassungsschutz No 6: Die Person hinter Grillmöbel wurde schon einmal auf der Autobahn von einer Nonne rechts überholt („Schwester Bleifuß“)
