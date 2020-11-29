@@ -4,6 +4,9 @@ title: Musiknerdtum
 ---
 
 
+Konzertreviews, Albumreviews, Bandlobpreisungen, musiknerdhafte Überlegungen
+<br><br>
+
 ## 2014
 
 * [Konzertreview: Black Sabbath](https://grillmoebel.github.io/2014/06/09/seventh-post-of-the-seventh-post/)
