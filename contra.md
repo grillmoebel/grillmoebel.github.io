@@ -3,6 +3,7 @@ layout: page
 title: Nichtprosa
 ---
 
+Epik, Lyrik und Dramatik, was sonst? <br><br>
 
 [Fahrradlässigkeit (06-09-2014)](https://grillmoebel.github.io/2014/09/06/seventeenth-post/)<br>
 [Momentaufnahmen eines Musiknerds - Da machste wat mit (15-11-2014)](https://grillmoebel.github.io/2014/11/15/twentyeigth-post/)<br>
