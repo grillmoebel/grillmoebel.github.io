@@ -4,8 +4,7 @@ title: Udo Jürgens und sein biologisches Alter - Was hat es ihm genützt? Jetzt
 date: 2017-10-20 08:37:00
 ---
 
-Heute ist ein großer Tag, denn heute nimmt die neue Kolumnenreihe "GM verkürzt" des Grillmöbel-Weblogteams seinen Anfang.
-Mit dabei: Klare Worte zu umstrittenen Themen, wechselnde Autor\_innenschaft. Es beginnt Marinus, im echten Leben Pyrotechniker, bei Grillmöbel zuständig für Running Gags.<br><br>
+Es beginnt Marinus, im echten Leben Pyrotechniker, bei Grillmöbel zuständig für Running Gags.<br>
 
 *Heute zum beliebten, aber auch umstrittenen Thema Sex:* <br>
 <br><br>
