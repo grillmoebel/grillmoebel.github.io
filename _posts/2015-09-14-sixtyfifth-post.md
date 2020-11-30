@@ -5,9 +5,8 @@ date: 2015-09-03 08:37:00
 ---
 
 
-Willkommen in der neuen Grillmöbel-Kolumne "Fiktionaler Realismus", wo ein Mitglied unseres Teams einem anderen Mitglied eine fiktive und möglichst wahnwitzige Situation nennt, zu der dieses eine Reihe von Erfahrungsberichten produzieren muss. Eine sehr herausfordernde Aufgabe, selbst für Grillmöbel-Mitarbeiter\_innen. Das Thema heute: "Stell dir vor, du würdest ein Kind bekommen und dich mit zwei anderen Menschen um es kümmern" [Anmerkung: Damit für den nötigen Realismus gesorgt ist, sind "unsere Schreiberlinge" dazu angehalten, keine Metaebenen zu verwenden, so dass es stellenweise so wirken kann, als würden Grillmöbelposts von einer Person verfasst, die tatsächlich in der beschriebenen absurden Situation ist. Hier bitte nicht die Fiktion mit der Realität verwechseln!]  <br><br>
-<br>
-1: Baulärm<br><br>
+
+
 
 Da habe ich doch glatt an dem Tag, wo der Baulärm aufgehört hat, mit diesem Bericht angefangen. Was haben wir nicht alles versucht, um dem Ganzen eigenmächtig ein Ende zu setzen: wütendes Abwarten, Lärmflucht, eine Bananenschale auf der Treppe (das war nicht so durchdacht, sind doch prinzipiell alle Arbeiter\_innen ersetzbar, wenn die Wohnung schnell fertig werden muss und das muss sie immer, selbst die Ausrutschgeschädigten) und sogar einen Dialog zu eröffnen, der dann etwa so ablief:<br><br>
 Arbeiter (benutzt eine Kreissäge): LÄRM<br>
