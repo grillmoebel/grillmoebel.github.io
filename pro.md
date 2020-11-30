@@ -3,6 +3,8 @@ layout: page
 title: Prosa
 ---
 
+Parabeln, Wirrsal, Interviews, Übersetzungen, Parodien, Träume, Geschichten, Dialoge, Szenen, Betrachtungen, Rauschhaftes. Es mögen Überschneidungen ins Analytische oder zum Zeitgeschehen hin zu finden sein. Die Dinge sind eben nicht getrennt.<br><br>
+
 ## 2014
 
 * [Das ist kein Post zur Weltmeisterschaft im Fußball.](https://grillmoebel.github.io/2014/06/14/eigth-post/)
