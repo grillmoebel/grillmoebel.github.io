@@ -3,7 +3,7 @@ layout: page
 title: Grillmöbel verstehen
 ---
 
-Sporadische Hilfestellungen zum Klarkommen im allgemeinen Chaos der hier dargebotenen Gedanken.<br><br>
+Sporadische Hilfestellungen zum Klarkommen im allgemeinen Chaos der hier dargebotenen Gedanken und Beiträge. Möglicherweise kontraproduktiv. <br><br>
 
 ## 2014
 
