@@ -6,7 +6,7 @@ date: 2014-07-27 08:37:21
 
 Dass [das Schlimmste ist, wenn das Bier alle ist](https://www.youtube.com/watch?v=NJ1_JpRKeic), ist zu Zeiten, in denen man alleine ist, es aber nicht sein will, durchweg ein guter Trost. Zu wissen, dass es immer etwas gibt, was schlimmer ist als unfreiwillige Einsamkeit, als nicht <del>begährt</del>  <del>begoren</del>  <del>baghira</del> begehrt zu werden. <br>
 Denn dass das Bier wirklich mal alle ist, scheint undenkbar. <br>
-Pogoanarchistischer Hedonismus, der in der Aussage ausgerechnet mit der Konsumfreiheit des Kapitalismus korreliert? Naja egal. <br>
+Pogoanarchistischer Hedonismus, der in der Aussage ausgerechnet mit kapitalistischem Konsumzwang korreliert? Naja egal. <br>
 Eigentlich klar: „Das Schlimmste“ teilt sich wie jede solche Kategorie immer auf in das übergeordnete Übel und das private Leiden, was keineswegs irgendwas mit subjektiv und objektiv zu tun hat. So gibt es für diejenigen Menschen, die merken, dass es sich hierbei nicht um die bestmögliche aller Welten handelt (so ein Blödsinn, Leibniz ist offenbar noch am ehesten in Keksform ernstzunehmen), viele Kandidaten, was das Schlimmste angeht: organisierte Religion, Nazis, Kapitalismus, Parteien, Waffenlobbyismus, Scheinheiligkeit und Bigotterie als Methode, Politiktheater, aber auch graue Fassaden, Lohnarbeitszwang, Gartenzäune, Kaffee und Kuchen. Tja. <br>
 Atomkraft, Kraftprotz, Protzkultur, Kulturrassismus, Rassismusleugnung, das neueste David Hasselhoff-Video. Alles mögliche lädt zu Superlativen ein.
 <br> 
