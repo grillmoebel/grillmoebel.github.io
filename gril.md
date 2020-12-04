@@ -7,7 +7,7 @@ Sporadische Hilfestellungen zum Klarkommen im allgemeinen Chaos der hier dargebo
 
 ## 2014
 
-* [Ich bin ein denkender Mensch, ich bin wütend und das muss reichen!](https://grillmoebel.github.io/2014/07/13/eleventh-post/
+* [Ich bin ein denkender Mensch, ich bin wütend und das muss reichen!](https://grillmoebel.github.io/2014/07/13/eleventh-post/)
 * [bi bi bioppen boppen boppa be diddn daddn wadeaschn diddn daddn sch en du](https://grillmoebel.github.io/2014/11/11/twentyseventh-post/)
 
 
