@@ -8,7 +8,6 @@ title: Kommentare zum Zeitgeschehen (2014-2020)
 * [Post für den Verfassungsschutz](https://grillmoebel.github.io/2014/08/29/sixteenth-post/)
 * [Dass mir ja die Überschrift nichts mit dem Inhalt zu tun hat!](https://grillmoebel.github.io/2014/12/07/twentyninth-post/)
 
----
 
 ## 2016
 
@@ -19,7 +18,6 @@ title: Kommentare zum Zeitgeschehen (2014-2020)
 * [Jetzt hör endlich mal auf, getriggert zu werden!](https://grillmoebel.github.io/2016/11/13/seventeenth-post/)
 * [Luxus für alle - Bourride vom roten Knurrhahn an eingemachtem Fenchel und geröstetem Wolfsbarsch für die Welt! (statt Brot für die Welt)](https://grillmoebel.github.io/2016/11/29/eighteenth-post/)
 
----
 
 ## 2017
 
@@ -29,8 +27,6 @@ title: Kommentare zum Zeitgeschehen (2014-2020)
 * [Ich verwende Aronal und Elmex, wie es mir gerade in den Kram passt](https://grillmoebel.github.io/2017/06/18/thirtyfifth-post/)
 * [Trink Leitungswasser, Arschloch](https://grillmoebel.github.io/2017/10/05/fourtyfirst-post/)
 * [Ich nutze ein Deo auf Gurkenbasis](https://grillmoebel.github.io/2017/10/14/fourtysecond-post/)
-
----
 
 ## 2018
 
@@ -44,8 +40,6 @@ title: Kommentare zum Zeitgeschehen (2014-2020)
 * [Wer ist eigentlich dieser Nextbike](https://grillmoebel.github.io/2018/11/11/eightieth-post/)
 * [Der Tag danach](https://grillmoebel.github.io/2018/11/12/somethingeighty-post/)
 * [Der Fasan fällt](https://grillmoebel.github.io/2018/11/30/eightysecond-post/)
-
----
 
 ## 2019
 
