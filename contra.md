@@ -9,6 +9,7 @@ Epik, Lyrik und Dramatik, was sonst? <br><br>
 [Momentaufnahmen eines Musiknerds - Da machste wat mit (15-11-2014)](https://grillmoebel.github.io/2014/11/15/twentyeigth-post/)<br>
 [Über Jesu Auferstehung (14-08-2015)](https://grillmoebel.github.io/2015/08/14/sixtyfirst-post/)<br>
 [An den Abschaum (03-08-2016)](https://grillmoebel.github.io/2016/08/03/sixth-post/)<br>
+[Viertel vor Neun (07-09-2016)](https://laesterasphalt.github.io/2016/09/07/eleventh-post/)<br>
 [Eine Diebeskomödie (22-09-2016)](https://grillmoebel.github.io/2016/09/22/twelvth-post/)<br>
 [Warnung vor dem Brocken (02-10-2016)](https://grillmoebel.github.io/2016/10/02/thirteenth-post/)<br>
 [Reifenfeuer (05-12-2016)](http://grillmoebel.github.io/2016/12/05/nineteenth-post/)<br>

@@ -36,6 +36,7 @@ Parabeln, Wirrsal, Interviews, Übersetzungen, Parodien, Träume, Geschichten, D
 * [Homos in der Afd sind lächerlich](https://grillmoebel.github.io/2017/02/24/twentyfifth-post/)
 * [Denkt denn niemand an die armen Selbstmordattentäter?](https://grillmoebel.github.io/2017/02/25/twentysixth-post/)
 * [Susan Sarandon ist ein Geizkragen](https://grillmoebel.github.io/2017/07/04/thirtysixth-post/)
+* [Ich bin der Sohn einer Schusswaffe](https://grillmoebel.github.io/2017/10/01/fourtieth-post/)
 * [Sojalecithin ist mir egal](https://grillmoebel.github.io/2017/12/24/fourtysixth-post/)
 
 

@@ -19,8 +19,8 @@ links:
     url:          /frag
   - name: 	      Meta
     url:          /gril
-  - name: 	      Blogroll
-    url:          https://grillmoebel.github.io
+  - name: 	      Blogroll (alt)
+    url:          https://laesterasphalt.github.io/
 pygments:         false
 permalink:        pretty
 markdown:         kramdown

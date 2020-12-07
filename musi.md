@@ -48,5 +48,6 @@ Konzertreviews, Albumreviews, Bandlobpreisungen, musiknerdhafte Überlegungen
 * [Konzertreview: Gluecifer](https://grillmoebel.github.io/2019/04/20/ninetysixth-post/)
 * [Konzertreview: Dead South](https://grillmoebel.github.io/2019/04/21/ninetyseventh-post/)
 * [Konzertreview: unbekannterweise](https://grillmoebel.github.io/2019/06/22/third-post/)
+* [Verdammter Rachut](https://grillmoebel.github.io/2019/09/01/seventh-post/)
 * [Konzertreview: Sleaford Mods](https://grillmoebel.github.io/2019/09/12/eighth-post/)
 
