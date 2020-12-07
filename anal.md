@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analytisches
+title: Analytisches als Bollwerk wider den Zeitgeist
 ---
 
    [deutsche Spezialitäten (Postnationalsozialismus, Katholizismus, Automobilfetisch und vieles mehr)](https://grillmoebel.github.io/post/)<br><br><br>

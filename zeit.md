@@ -45,3 +45,5 @@ title: Kommentare zum Zeitgeschehen (2014-2020)
 
 * [Vorschlag von Grillmöbel zum Frauentag](https://grillmoebel.github.io/2019/03/08/ninetieth-post/)
 * [Meteoritensturm](https://grillmoebel.github.io/2019/03/20/ninetyfourth-post/)
+* [Bring den Eisbären zurück, wo er hingehört, Arschloch (07/2019)](https://grillmoebel.github.io/2019/07/13/third-post/)
+* [torture never stops (Zappa) (02/2020)](https://grillmoebel.github.io/2020/02/27/twentythird-post/)

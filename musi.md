@@ -45,6 +45,7 @@ Konzertreviews, Albumreviews, Bandlobpreisungen, musiknerdhafte Überlegungen
 ## 2019
 
 * [Über Musik (1)](https://grillmoebel.github.io/2019/01/06/eightythird-post/) - [(2)](https://grillmoebel.github.io/2019/01/06/eightyfourth-post/) - [(3)](https://grillmoebel.github.io/2019/01/08/eightyfifth-post/)
+* [Musik aus der Perspektive des Großen Ganzen](https://grillmoebel.github.io/2019/04/16/ninetyfifth-post/)
 * [Konzertreview: Gluecifer](https://grillmoebel.github.io/2019/04/20/ninetysixth-post/)
 * [Konzertreview: Dead South](https://grillmoebel.github.io/2019/04/21/ninetyseventh-post/)
 * [Konzertreview: unbekannterweise](https://grillmoebel.github.io/2019/06/22/third-post/)
