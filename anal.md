@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Analytisches als Bollwerk wider den Zeitgeist
+title: Analytisches 
 ---
+
+...als Bollwerk wider den Zeitgeist<br><br>
+
 
    [deutsche Spezialitäten (Postnationalsozialismus, Katholizismus, Automobilfetisch und vieles mehr)](https://grillmoebel.github.io/post/)<br><br><br>
    [Leben im entfesselten Turbokapitalismus (Affirmation des Bestehenden, Werbung, Konsum und vieles mehr)](https://grillmoebel.github.io/affi)<br><br><br>
