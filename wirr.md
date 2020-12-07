@@ -1,6 +1,6 @@
 ---
 layout: page
-title: der Rest ist Wirrsal
+title: deutsche Spezialitäten (Postnationalsozialismus, Katholizismus, Automobilfetisch und vieles mehr)
 ---
 
 ## 2014
