@@ -4,7 +4,7 @@ title: Ich mag alle Menschen, sofern sie nicht muskulös sind
 date: 2016-04-30 08:37:00
 ---
 
-Liebes Baby, <br>
+[Liebes Baby](https://grillmoebel.github.io/2016/01/17/eightysixth-post/) , <br>
 ich hab dich lieb. Doch, wirklich, ich hd geradezu gdl, ganz ehrlich.<br><br>
 Ich füttere dich viele Monate lang mit einer Flasche, deren Inhalt ich bezahlen muss; der Preis deines Überlebens hängt somit von volkswirtschaftlichen Prozessen ab. Ich vertraue dein Überleben einem Drogeriemarkt an.<br><br>
 Ich habe viel Zeit für dich, aber auch um vieles andere muss ich mich kümmern, weil meine finanzielle Sicherheit daran hängt und damit (s.o.), ob du ausreichend Essen und Windeln und Kleidung und alles andere, was du brauchst, hast. Ich habe dich in eine Welt geworfen, die so funktioniert, dass jemand mit wenig Geld nicht so viel Zeit für dich haben kann, wie du brauchst.<br><br>
