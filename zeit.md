@@ -3,47 +3,49 @@ layout: page
 title: Kommentare zum Zeitgeschehen (2014-2020)
 ---
 
-## 2014
+## 2020
 
-* [Post für den Verfassungsschutz](https://grillmoebel.github.io/2014/08/29/sixteenth-post/)
-* [Dass mir ja die Überschrift nichts mit dem Inhalt zu tun hat!](https://grillmoebel.github.io/2014/12/07/twentyninth-post/)
-
-
-## 2016
-
-* [SHAAAA-LA-LA-LA-LA-LA-UAAAARGRHHHHHHH!!!!](https://grillmoebel.github.io/2016/06/14/lets-say-first-post-again/)
-* [Der Höhepunkt eines jeden Liedes ist die Dönerstrophe](https://grillmoebel.github.io/2016/07/07/third-post/)
-* [Kann Gott ein Babyphon herstellen, das so laut ist, dass es in einer Endlosschleife auf sich selbst reagiert](https://grillmoebel.github.io/2016/07/14/fourth-post/)
-* [Die Brüste der Nofretete](https://grillmoebel.github.io/2016/10/07/fourteenth-post/)
-* [Jetzt hör endlich mal auf, getriggert zu werden!](https://grillmoebel.github.io/2016/11/13/seventeenth-post/)
-* [Luxus für alle - Bourride vom roten Knurrhahn an eingemachtem Fenchel und geröstetem Wolfsbarsch für die Welt! (statt Brot für die Welt)](https://grillmoebel.github.io/2016/11/29/eighteenth-post/)
-
-
-## 2017
-
-* [Neues aus der Provinz](https://grillmoebel.github.io/2017/01/16/twentyfourth-post/)
-* [Psycho-Login macht Nutzer wahnsinnig](https://grillmoebel.github.io/2017/02/26/twentyseventh-post/)
-* [Helmut Kohl war ein Trottel und kann jetzt immerhin weniger Schaden anrichten](https://grillmoebel.github.io/2017/06/16/thirtyfourth-post/)
-* [Ich verwende Aronal und Elmex, wie es mir gerade in den Kram passt](https://grillmoebel.github.io/2017/06/18/thirtyfifth-post/)
-* [Trink Leitungswasser, Arschloch](https://grillmoebel.github.io/2017/10/05/fourtyfirst-post/)
-* [Ich nutze ein Deo auf Gurkenbasis](https://grillmoebel.github.io/2017/10/14/fourtysecond-post/)
-
-## 2018
-
-* [Mut zur Nacht revisited](https://grillmoebel.github.io/2018/01/22/fiftythird-post/)
-* [Melke den Brand! Melke ihn zu Tode!](https://grillmoebel.github.io/2018/01/24/fiftyfifth-post/)
-* [Werbeunterbrechung, leider](https://grillmoebel.github.io/2018/05/02/sixtysecond-post/)
-* [Was, wenn sich irgendwann herausstellt, dass Danger Dan wirklich gefährlich ist?](https://grillmoebel.github.io/2018/05/29/sixtyseventh-post/)
-* [Konferenz der Tiere - gefördert durch die Aktion Mensch](https://grillmoebel.github.io/2018/06/27/seventyfirst-post/)
-* [Gedanken zur Extremwetterlage (August 2018)](https://grillmoebel.github.io/2018/08/01/post-in-the-middle/)
-* [more of the same, please](https://grillmoebel.github.io/2018/08/29/seventyseventh-post/)
-* [Wer ist eigentlich dieser Nextbike](https://grillmoebel.github.io/2018/11/11/eightieth-post/)
-* [Der Tag danach](https://grillmoebel.github.io/2018/11/12/somethingeighty-post/)
-* [Der Fasan fällt](https://grillmoebel.github.io/2018/11/30/eightysecond-post/)
+* [Ad Pandemie (02/2020)](https://grillmoebel.github.io/2020/02/27/twentythird-post/)
 
 ## 2019
 
-* [Vorschlag von Grillmöbel zum Frauentag](https://grillmoebel.github.io/2019/03/08/ninetieth-post/)
-* [Meteoritensturm](https://grillmoebel.github.io/2019/03/20/ninetyfourth-post/)
-* [Bring den Eisbären zurück, wo er hingehört, Arschloch (07/2019)](https://grillmoebel.github.io/2019/07/13/third-post/)
-* [torture never stops (Zappa) (02/2020)](https://grillmoebel.github.io/2020/02/27/twentythird-post/)
+* [Ad Meteoriteneinschlag (03/2019)](https://grillmoebel.github.io/2019/03/20/ninetyfourth-post/)
+* [Ad Frauentag (03/2019)](https://grillmoebel.github.io/2019/03/08/ninetieth-post/)
+
+
+## 2018
+
+* [Ad Schulz vs. Merkel (01/2018)](https://grillmoebel.github.io/2018/01/22/fiftythird-post/)
+* [Ad Branding, zeitgeistige Show-Events und Helikopter-Eltern (01/2018)](https://grillmoebel.github.io/2018/01/24/fiftyfifth-post/)
+* [Ad Sprache der Werbung (05/2018)](https://grillmoebel.github.io/2018/05/02/sixtysecond-post/)
+* [Ad Stockfotos (06/2018)](https://grillmoebel.github.io/2018/05/29/sixtyseventh-post/)
+* [Ad Profifußballer (06/2018)](https://grillmoebel.github.io/2018/06/27/seventyfirst-post/)
+* [Ad Hitzwelle (08/2018)](https://grillmoebel.github.io/2018/08/01/post-in-the-middle/)
+* [Ad Framing, GMX News und Terence Hills Ariernachweis (08/2018)](https://grillmoebel.github.io/2018/08/29/seventyseventh-post/)
+* Ad Elevennine (11/2018) - [1](https://grillmoebel.github.io/2018/11/11/eightieth-post/) - [2](https://grillmoebel.github.io/2018/11/12/somethingeighty-post/)
+* [Ad Tagesgeschehen (11/2018)](https://grillmoebel.github.io/2018/11/30/eightysecond-post/)
+
+## 2017
+
+* [Ad Wahlkampf 2017](https://grillmoebel.github.io/2017/01/16/twentyfourth-post/)
+* [Ad Männerproblem (02/2017)](https://grillmoebel.github.io/2017/02/26/twentyseventh-post/)
+* [Ad Helmut Kohl (06/2017)](https://grillmoebel.github.io/2017/06/16/thirtyfourth-post/)
+* [Ad BILD-Meldung (06/2017)](https://grillmoebel.github.io/2017/06/18/thirtyfifth-post/)
+* [Ad Sprache der Politik (10/2017)](https://grillmoebel.github.io/2017/10/05/fourtyfirst-post/)
+* [Ad Afd, Meteoriteneinschläge und Popkultur (10/2017)](https://grillmoebel.github.io/2017/10/14/fourtysecond-post/)
+
+## 2016
+
+* [Ad Branding und Food Delivery (06/2016)](https://grillmoebel.github.io/2016/06/14/lets-say-first-post-again/)
+* [Ad Fußball in Deutschland (07/2016)](https://grillmoebel.github.io/2016/07/07/third-post/)
+* [Ad Gerichtsentscheidungen und Frank Henkel (07/2016)](https://grillmoebel.github.io/2016/07/14/fourth-post/)
+* [Ad Medien und Tagesgeschehen (10/2016)](https://grillmoebel.github.io/2016/10/07/fourteenth-post/)
+* [Ad Motorradhochzeit, Pokémon Go und Drohnen (11/2016)](https://grillmoebel.github.io/2016/11/13/seventeenth-post/)
+* [Ad Biografien (11/2016)](https://grillmoebel.github.io/2016/11/29/eighteenth-post/)
+
+## 2014
+
+* [Ad Brandanschläge auf Verkehrsknotenpunkte (08/2014)](https://grillmoebel.github.io/2014/08/29/sixteenth-post/)
+* [Ad Egoismus, Weihnachten und Atom-Fruchtfliegen (12/2014)](https://grillmoebel.github.io/2014/12/07/twentyninth-post/)
+
+
