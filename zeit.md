@@ -22,8 +22,8 @@ title: Kommentare zum Zeitgeschehen (2014-2020)
 * [Ad Profifußballer (06/2018)](https://grillmoebel.github.io/2018/06/27/seventyfirst-post/)
 * [Ad Hitzwelle (08/2018)](https://grillmoebel.github.io/2018/08/01/post-in-the-middle/)
 * [Ad Framing, GMX News und Terence Hills Ariernachweis (08/2018)](https://grillmoebel.github.io/2018/08/29/seventyseventh-post/)
-* Ad Elevennine (11/2018) - [1](https://grillmoebel.github.io/2018/11/11/eightieth-post/) - [2](https://grillmoebel.github.io/2018/11/12/somethingeighty-post/)
-* [Ad Tagesgeschehen (11/2018)](https://grillmoebel.github.io/2018/11/30/eightysecond-post/)
+* Ad Elevennine (11/2018): [1](https://grillmoebel.github.io/2018/11/11/eightieth-post/) - [2](https://grillmoebel.github.io/2018/11/12/somethingeighty-post/)
+* [Ad Mr. Burns, totalitäre Mode  und postapokalyptische Plakatwerbung (11/2018)](https://grillmoebel.github.io/2018/11/30/eightysecond-post/)
 
 ## 2017
 
