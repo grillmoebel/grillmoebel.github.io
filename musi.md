@@ -19,7 +19,7 @@ Konzertreviews, Albumreviews, Bandlobpreisungen, musiknerdhafte Überlegungen
 
 ## 2015
 
-* [Albumreview: Captain Beefheart: Lick My Decals Off, Baby](https://grillmoebel.github.io/2015/02/01/thirtysixth-post/)
+* [Albumreview: Captain Beefheart - Lick My Decals Off, Baby](https://grillmoebel.github.io/2015/02/01/thirtysixth-post/)
 * [Konzertreview: Edgar Wasser](https://grillmoebel.github.io/2015/04/14/fourtyfifth-post/)
 * [Albumreview: Sam Amidon - Lily-O](https://grillmoebel.github.io/2015/05/10/fiftieth-post-jubilee-jubilee/)
 * [Traurige Momente der populären Musik](https://grillmoebel.github.io/2015/09/27/sixtysixth-post/)
@@ -56,5 +56,5 @@ Konzertreviews, Albumreviews, Bandlobpreisungen, musiknerdhafte Überlegungen
 
 ## 2021
 
-* [Albumreview: The Pogues: Waiting for Herb](https://grillmoebel.github.io/2021/01/12/twentyseventh-post/)
+* [Albumreview: The Pogues - Waiting for Herb](https://grillmoebel.github.io/2021/01/12/twentyseventh-post/)
 

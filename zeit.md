@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Kommentare zum Zeitgeschehen (2014-2020)
+title: Kommentare zum Zeitgeschehen (2014-?)
 ---
+
+## 2021
+
+* [Ad Kontinuitäten in der Pandemie (01/2021)](https://grillmoebel.github.io/2021/01/16/twentyeighth-post/)
 
 ## 2020
 
