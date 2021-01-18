@@ -1,0 +1,10 @@
+---
+layout: post
+title: bi bi bioppen boppen boppa be diddn daddn wadeaschn diddn daddn sch en du
+date: 2014-11-11 00:37:21
+---
+
+Ja-ha, selbst auf dem Blog des Jahres 2012 (Preis für das [Lebenswerk](https://grillmoebel.github.io/), vergeben von der Internet-Community) kann ein Post mal ins Sinnlose abgleiten und wenn es auch nur die Abgründe der [Heavy-Metal-Kreativität](https://grillmoebel.github.io/2014/11/09/twentysixth-post) sind, frage ich mich immer öfter: Was soll eigentlich dieser Quatsch? Warum bin ich nicht [Holzfäller](http://upload.wikimedia.org/wikipedia/commons/2/23/Todd_Michael_Hall_%E2%80%93_Headbangers_Open_Air_2014_08.jpg) oder [Schlagersängerin](http://www.youtube.com/watch?v=D0HlvAuwzmE) geworden?<br> <del>Doch wenn ich die leuchtenden Augen meiner Leser\_innen sehe, dann weiß ich wieder, warum ich schreibe, nämlich um die Welt zu einem besseren Ort für uns alle zu machen.</del><br>
+[In der Fantasie geht alles](http://www.youtube.com/watch?v=yLZKIghVLvU), belehrt uns Parkplatzwächter, Raucher und Berufsschauspieler Helmut Körschgen. Doch wenn [auf so](http://de.wikipedia.org/wiki/Berliner_Stadtschloss#Gesamtfinanzierung) [vielen](http://de.wikipedia.org/wiki/Notre-Dame-de-la-Paix_de_Yamoussoukro) [Ebenen](http://www.youtube.com/watch?v=DWFhkK5yylA) Sinnlosigkeit zum geltenden Prinzip erhoben wird, möchte Grillmöbel mitmachen. <br>
+Hudenoitherauspidengquipufzikatmerebyprox, kallalakallalagrubitroplärzwombyfrübidegoblöxwipungomat; haito promnäR! Paraskeuazetai :D mrorg4,2.<br>
+Hm, macht Spaß. Hiermit rufe ich dazu auf, sinnlosen Quatsch zu produzieren. Besonders geeignet für: Job-Center-Formulare, GEZ-Antwortbriefe und Bekenner\_innenschreiben. In meiner Lebensrealität werden definitiv nicht genug Dinge [gebellt](http://www.youtube.com/watch?v=0UfuMzDnotQ).
