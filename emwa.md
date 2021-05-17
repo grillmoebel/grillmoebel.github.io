@@ -13,4 +13,5 @@ Bücher, Textstellen, Videos, Zeitungsartikel<br><br>
 [10 Textstellen, die Ihr Leben für immer verändern werden (01/2018)](https://grillmoebel.github.io/2018/01/01/fourtyeighth-post/)<br>
 [Jens Rachut vs Helge Schneider vs Realität (03/2019)](https://grillmoebel.github.io/2019/03/10/ninetyfirst-post/)<br>
 [subversive Kunst bei wetteronline (03/2019)](https://grillmoebel.github.io/2019/03/14/ninetysecond-post/)<br>
+[Erzfeinderei](https://grillmoebel.github.io/2021/05/17/thirtysecond-post/)<br>
 
