@@ -12,6 +12,7 @@ Konzertreviews, Albumreviews, Bandlobpreisungen, musiknerdhafte Überlegungen
 * [Albumreview: The Pogues - Waiting for Herb](https://grillmoebel.github.io/2021/01/12/twentyseventh-post/)
 * [Der Grillmöbel-Newsletter (1) im Realitätscheck](https://grillmoebel.github.io/2021/01/18/twentyninth-post/)
 * [Gedanken zu Bob Dylans Rolle in der Popkultur](https://grillmoebel.github.io/2021/02/04/thirtyfirst-post/)
+* [Konzertreview: Marc Ribot's Ceramic Dog](https://grillmoebel.github.io/2021/12/07/thirtyfourth-post/)
 
 ---
 
